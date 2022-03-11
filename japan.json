@@ -4,6 +4,14 @@
         "usa": 19,
         "china": 18,
         "south korea": 6,
-        "Taiwan": 6
+        "taiwan": 6
+    },
+    "import": {
+        "tot":799,
+        "china": 23,
+        "usa": 11,
+        "australia": 6
     }
 }
+
+   
