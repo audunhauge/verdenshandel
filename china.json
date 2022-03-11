@@ -1,0 +1,15 @@
+{
+    "export": {
+        "tot": 2732.37,
+        "usa": 17,
+        "hong kong": 10,
+        "japan": 6
+    },
+        "import": {
+            "tot": 2362.69,
+            "south korea": 9,
+            "japan":8,
+            "australia": 7,
+            "germany": 7
+        }
+}
