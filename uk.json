@@ -1,0 +1,21 @@
+{
+    "eksport" : {
+        "tot" : 879.9 ,
+        "usa" : 15 ,
+        "germany" : 10 ,
+        "china" : 7 ,
+        "netherlands" : 7 ,
+        "france" : 7 ,
+        "ireland" : 6
+        
+        },
+        "import" : {
+            "tot" : 914.96 ,
+            "germany" : 13 ,
+            "china" : 10 ,
+            "united states" : 8 , 
+            "netherlands" : 7 ,
+            "france" : 6 ,
+            "belgium" : 5
+        }
+}
