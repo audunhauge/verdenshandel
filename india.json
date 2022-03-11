@@ -1,0 +1,15 @@
+{
+    "eksport": {
+        "tot": 546,
+        "usa": 17,
+        "uae": 9,
+        "china": 5
+    },
+    
+    "import": {
+        "tot": 619,
+        "china": 15,
+        "usa": 7,
+        "uae": 6
+    }
+}
