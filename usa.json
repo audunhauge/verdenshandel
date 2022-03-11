@@ -1,0 +1,17 @@
+{
+    "eksport":{
+        "tot": 2528,
+        "canada": 17,
+        "mexico": 16,
+        "china": 7,
+        "japan": 5
+    },
+    "import": {
+        "tot": 3105,
+        "china": 18,
+        "mexico": 15,
+        "canada": 13,
+        "japan": 6,
+        "germany": 5
+    }
+}
