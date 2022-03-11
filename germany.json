@@ -1,0 +1,30 @@
+{
+    "eksport": {
+        "tot":1493,
+        "usa":8.94,
+        "china":7.25,
+        "japan":1.56,
+        "uk":5.92,
+        "india":0.9,
+        "france":7.99,
+        "italy":5.08,
+        "brazil":0.77,
+        "canada":0.82,
+        "norway":0.71,
+        "sweden":1.87
+    },
+    "import": {
+        "tot":1240,
+        "usa":6.57,
+        "china":10.03,
+        "japan":2.22,
+        "uk":3.42,
+        "india":0.86,
+        "france":5.97,
+        "italy":5.15,
+        "brazil":0.63,
+        "canada":0.48,
+        "norway":0.68,
+        "sweden":1.39
+    }
+}
