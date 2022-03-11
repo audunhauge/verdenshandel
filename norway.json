@@ -1,0 +1,21 @@
+{
+    "eksport": {
+        "tot":14.671,
+        "United Kingdom": 18,
+        "Germany": 14, 
+        "Netherlands": 10, 
+        "Sweden": 9, 
+        "France": 6, 
+        "United States": 5
+    },
+    "import": {
+        "tot": 14.014,
+        "Sweden": 17, 
+        "Germany": 12, 
+        "China": 8, 
+        "Denmark": 7, 
+        "United States": 6, 
+        "United Kingdom": 5, 
+        "Netherlands": 5
+    }
+}
