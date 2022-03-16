@@ -39,10 +39,12 @@
             
             const land = Object.keys(data);
             const initData = {};
-            initData.nodes = land.map(id => {id});
+            initData.nodes = land.map(id => ({id}));
+            initData.links = [];
 
 
             const { floor } = Math;
+            /*
             const initData = {
                 nodes: [
                     { id: "kina", gdp: 1472 },
@@ -56,7 +58,7 @@
                     { source: "kina", target: "japan", value: 8, curvature: 0.4, rotation: Math.PI * 1 / 3 },
                     { source: "usa", target: "japan", value: 15, curvature: 0.4, rotation: Math.PI * 1 / 2 },
                 ]
-            };
+            };*/
             const Graph = ForceGraph3D()
                 (document.getElementById('disp'))
                 //.jsonUrl('./world.json')
