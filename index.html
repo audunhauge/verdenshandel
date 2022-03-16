@@ -31,6 +31,17 @@
     -->
 
     <script>
+
+    async function lesfil() { 
+    const url = "world.json";
+    const response = await fetch(url);
+    const data = await response.json();
+    console.log(data);
+    }
+
+    lesfil();
+
+
         const { floor } = Math;
         const initData = {
             nodes: [
