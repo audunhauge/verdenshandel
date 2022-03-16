@@ -33,17 +33,40 @@
     <script>
 
         async function lesfil() {
+            const { floor, random } = Math;
             const url = "world.json";
             const response = await fetch(url);
             const data = await response.json();
             
-            const land = Object.keys(data);
+            const landListe = Object.keys(data);
             const initData = {};
-            initData.nodes = land.map(id => ({id}));
+            initData.nodes = landListe.map(id => ({id}));
             initData.links = [];
 
+            for (const land of landListe) {
+                const exp = data[land].eksport;
+                const tot = exp.tot;
+                const partnere = Object.keys(exp);
+                for (const part of partnere) {
+                    if (part !== "tot") {
+                        const prosent = exp[part]/100;
+                        if (! initData.nodes.find(n => n.id === part)) {
+                            initData.nodes.push({id:part});
+                        }
+                        initData.links.push(
+                            { source: land, target: part, 
+                                value: 0.1 * prosent * tot, 
+                                curvature: 0.1 + random()*0.8, 
+                                rotation: Math.PI * random() }
+                        );
+                    }
+                }
+            }
 
-            const { floor } = Math;
+        
+
+
+          
             /*
             const initData = {
                 nodes: [
