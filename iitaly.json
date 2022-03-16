@@ -6,7 +6,7 @@
         "USA": 10,
         "Uk":5,
         "Spain":5,
-        "Switzerland":5
+        "Switzerland":5.0
     },
     "import": {
         "tot": 569.7,
