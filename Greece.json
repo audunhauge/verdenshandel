@@ -1,0 +1,21 @@
+{
+    "Greece": {
+        "import": {
+            "tot": 71.76,
+            "germany": 8,
+            "China": 6,
+            "italy": 7,
+            "Russia": 4,
+            "Netherlands": 4
+        },
+        "eksport": {
+            "tot": 59.02,
+            "germany": 4,
+            "italy": 6,
+            "Netherlands": 4,
+            "Turkey": 3,
+            "Cypros": 3,
+            "Bulgaria": 3
+        }
+    }
+}

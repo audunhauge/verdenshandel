@@ -166,6 +166,17 @@
            "netherlands": 6,
            "uk": 5
         }
-     }
-    
+     },
+     "netherlands":{
+        "eksport": {
+            "tot": 555.83,
+            "usa": 73
+        },
+        "import":{
+            "tot":583.6,
+            "usa":57,
+            "china":11,
+            "mexico":5
+        }
+    }   
 }
