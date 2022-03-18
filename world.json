@@ -51,22 +51,22 @@
     "norway": {
         "eksport": {
             "tot":14.671,
-            "United Kingdom": 18,
-            "Germany": 14, 
-            "Netherlands": 10, 
-            "Sweden": 9, 
-            "France": 6, 
-            "United States": 5
+            "uk": 18,
+            "germany": 14, 
+            "netherlands": 10, 
+            "sweden": 9, 
+            "france": 6, 
+            "usa": 5
         },
         "import": {
             "tot": 14.014,
-            "Sweden": 17, 
-            "Germany": 12, 
-            "China": 8, 
-            "Denmark": 7, 
-            "United States": 6, 
-            "United Kingdom": 5, 
-            "Netherlands": 5
+            "sweden": 17, 
+            "germany": 12, 
+            "china": 8, 
+            "denmark": 7, 
+            "usa": 6, 
+            "uk": 5, 
+            "netherlands": 5
         }
     },
     "japan":{
@@ -87,21 +87,21 @@
     "italy":{
         "eksport": {
             "tot": 636.01,
-            "Germany": 12,
-            "France":11,
-            "USA": 10,
-            "Uk":5,
-            "Spain":5,
-            "Switzerland":5
+            "germany": 12,
+            "france":11,
+            "usa": 10,
+            "uk":5,
+            "spain":5,
+            "switzerland":5
         },
         "import": {
             "tot": 569.7,
-            "Germany":16,
-            "France":9,
-            "China":7,
-            "Spain":5,
-            "Netherlands":5,
-            "Belgium":5
+            "germany":16,
+            "france":9,
+            "china":7,
+            "spain":5,
+            "netherlands":5,
+            "belgium":5
     
         }
     },
@@ -123,12 +123,12 @@
     "canada":{
         "eksport": {
             "tot":555.8,
-            "USA": 73
+            "usa": 73
         },
         "import": {
             "tot":583.6,
-            "USA":57,
-            "China":11
+            "usa":57,
+            "china":11
         }
     },
     "india":{
@@ -150,7 +150,7 @@
         "eksport": {
            "tot": 891.18,
            "germany": 14,
-           "us": 8,
+           "usa": 8,
            "italy": 7,
            "spain": 7,
            "belgium": 7,
@@ -166,6 +166,36 @@
            "netherlands": 6,
            "uk": 5
         }
-     }
+     },
+     "germany":{
+        "eksport": {
+            "tot":1493,
+            "usa":8.94,
+            "china":7.25,
+            "japan":1.56,
+            "uk":5.92,
+            "india":0.9,
+            "france":7.99,
+            "italy":5.08,
+            "brazil":0.77,
+            "canada":0.82,
+            "norway":0.71,
+            "sweden":1.87
+        },
+        "import": {
+            "tot":1240,
+            "usa":6.57,
+            "china":10.03,
+            "japan":2.22,
+            "uk":3.42,
+            "india":0.86,
+            "france":5.97,
+            "italy":5.15,
+            "brazil":0.63,
+            "canada":0.48,
+            "norway":0.68,
+            "sweden":1.39
+        }
+    }    
     
 }

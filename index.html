@@ -37,10 +37,10 @@
             const url = "world.json";
             const response = await fetch(url);
             const data = await response.json();
-            
+
             const landListe = Object.keys(data);
             const initData = {};
-            initData.nodes = landListe.map(id => ({id}));
+            initData.nodes = landListe.map(id => ({ id }));
             initData.links = [];
 
             for (const land of landListe) {
@@ -49,24 +49,26 @@
                 const partnere = Object.keys(exp);
                 for (const part of partnere) {
                     if (part !== "tot") {
-                        const prosent = exp[part]/100;
-                        if (! initData.nodes.find(n => n.id === part)) {
-                            initData.nodes.push({id:part});
+                        const prosent = exp[part] / 100;
+                        if (!initData.nodes.find(n => n.id === part)) {
+                            initData.nodes.push({ id: part });
                         }
                         initData.links.push(
-                            { source: land, target: part, 
-                                value: 0.1 * prosent * tot, 
-                                curvature: 0.1 + random()*0.8, 
-                                rotation: Math.PI * random() }
+                            {
+                                source: land, target: part,
+                                value: 0.1 * prosent * tot,
+                                curvature: 0.1 + random() * 0.8,
+                                rotation: Math.PI * random()
+                            }
                         );
                     }
                 }
             }
 
-        
 
 
-          
+
+
             /*
             const initData = {
                 nodes: [
@@ -84,7 +86,6 @@
             };*/
             const Graph = ForceGraph3D()
                 (document.getElementById('disp'))
-                //.jsonUrl('./world.json')
                 .graphData(initData)
                 .nodeAutoColorBy(d => floor(Number(d.gdp / 10)))
                 .linkDirectionalParticles("value")
@@ -101,6 +102,10 @@
                     sprite.textHeight = 8;
                     return sprite;
                 });
+                
+            Graph
+                .d3Force('link')
+                .distance(link => 150 / (1+ link.value));
 
             // Spread nodes a little wider
             //Graph.d3Force('charge').strength(-120);
