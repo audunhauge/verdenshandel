@@ -37,6 +37,11 @@
         }
     },
     "sweden": {
+        "eksport": {
+            "tot": 123,
+            "norway": 16,
+            "germany": 12
+        },
         "import": {
             "tot": 123,
             "norway": 16,
@@ -65,7 +70,7 @@
         }
     },
     "japan":{
-        "export":{
+        "eksport":{
             "tot": 904,
             "usa": 19,
             "china": 18,
