@@ -1,0 +1,18 @@
+{
+   "czechia": {
+      "eksport": {
+          "tot": 186.54,
+          "germany": 31,
+          "slovakia": 7,
+          "poland": 6,
+          "france": 5
+      },
+      "import": {
+          "tot": 171.43,
+          "germany": 27,
+          "china": 12,
+          "poland": 9,
+          "slovakia": 5
+      }
+   }
+}
