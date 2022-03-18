@@ -1,0 +1,171 @@
+{
+    "usa": {
+        "eksport": {
+            "tot": 2528,
+            "canada": 17,
+            "mexico": 16,
+            "china": 7,
+            "japan": 5
+        },
+        "import": {
+            "tot": 3105,
+            "china": 18,
+            "mexico": 15,
+            "canada": 13,
+            "japan": 6,
+            "germany": 5
+        }
+    },
+    "uk": {
+        "eksport": {
+            "tot": 879.9,
+            "usa": 15,
+            "germany": 10,
+            "china": 7,
+            "netherlands": 7,
+            "france": 7,
+            "ireland": 6
+        },
+        "import": {
+            "tot": 914.96,
+            "germany": 13,
+            "china": 10,
+            "united states": 8,
+            "netherlands": 7,
+            "france": 6,
+            "belgium": 5
+        }
+    },
+    "sweden": {
+        "eksport": {
+            "tot": 123,
+            "norway": 16,
+            "germany": 12
+        },
+        "import": {
+            "tot": 123,
+            "norway": 16,
+            "germany": 12
+        }
+    },
+    "norway": {
+        "eksport": {
+            "tot":14.671,
+            "United Kingdom": 18,
+            "Germany": 14, 
+            "Netherlands": 10, 
+            "Sweden": 9, 
+            "France": 6, 
+            "United States": 5
+        },
+        "import": {
+            "tot": 14.014,
+            "Sweden": 17, 
+            "Germany": 12, 
+            "China": 8, 
+            "Denmark": 7, 
+            "United States": 6, 
+            "United Kingdom": 5, 
+            "Netherlands": 5
+        }
+    },
+    "japan":{
+        "eksport":{
+            "tot": 904,
+            "usa": 19,
+            "china": 18,
+            "south korea": 6,
+            "taiwan": 6
+        },
+        "import": {
+            "tot":799,
+            "china": 23,
+            "usa": 11,
+            "australia": 6
+        }
+    },
+    "italy":{
+        "eksport": {
+            "tot": 636.01,
+            "Germany": 12,
+            "France":11,
+            "USA": 10,
+            "Uk":5,
+            "Spain":5,
+            "Switzerland":5
+        },
+        "import": {
+            "tot": 569.7,
+            "Germany":16,
+            "France":9,
+            "China":7,
+            "Spain":5,
+            "Netherlands":5,
+            "Belgium":5
+    
+        }
+    },
+    "china":{
+        "eksport": {
+            "tot": 2732.37,
+            "usa": 17,
+            "hong kong": 10,
+            "japan": 6
+        },
+            "import": {
+                "tot": 2362.69,
+                "south korea": 9,
+                "japan":8,
+                "australia": 7,
+                "germany": 7
+            }
+    },
+    "canada":{
+        "eksport": {
+            "tot":555.8,
+            "USA": 73
+        },
+        "import": {
+            "tot":583.6,
+            "USA":57,
+            "China":11
+        }
+    },
+    "india":{
+        "eksport": {
+            "tot": 546,
+            "usa": 17,
+            "uae": 9,
+            "china": 5
+        },
+        
+        "import": {
+            "tot": 619,
+            "china": 15,
+            "usa": 7,
+            "uae": 6
+        }
+    },
+    "france":{
+        "eksport": {
+           "tot": 891.18,
+           "germany": 14,
+           "us": 8,
+           "italy": 7,
+           "spain": 7,
+           "belgium": 7,
+           "uk": 7
+        },
+        "import": {
+           "tot": 919.63,
+           "germany": 18,
+           "belgium": 9,
+           "italy": 9,
+           "spain": 7,
+           "china": 7,
+           "netherlands": 6,
+           "uk": 5
+        }
+     }
+    
+}
