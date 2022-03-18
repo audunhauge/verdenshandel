@@ -166,8 +166,9 @@
            "netherlands": 6,
            "uk": 5
         }
-     },
-     "netherlands":{
+     
+    },
+    "netherlands":{
         "eksport": {
             "tot": 555.83,
             "usa": 73
@@ -178,5 +179,22 @@
             "china":11,
             "mexico":5
         }
-    }   
+    },
+    "romania":{
+        "eksport":{
+            "tot": 100.9,
+            "germany": 22,
+            "italy": 10,
+            "france": 7
+        },
+        "import": {
+            "tot": 111.1,
+            "germany": 19,
+            "italy": 9,
+            "hungary": 7,
+            "polen": 6,
+            "china": 5,
+            "france": 5
+        }
+    } 
 }
