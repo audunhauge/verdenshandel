@@ -1,0 +1,68 @@
+
+#img{
+    position: absolute;
+    left: 70px;
+    width:1000px;
+    
+}
+
+#asia{
+    position: absolute;
+    border: solid 1px black;
+    right: 40px;
+}
+
+#afrika{
+    position: absolute;
+    border: solid 1px teal;
+    width: 150px;
+    left: 530px;
+    top: 300px;
+    height: 300px;
+    border-radius: 40%;
+    transform: rotate(-41deg);
+    
+    
+
+}
+
+#europa{
+    position: absolute;
+    border: 1px solid rgb(223, 157, 167);
+    width: 400px;
+    left: 500px;
+    height: 220px;
+    top: 100px;
+
+}
+#NA{
+    position: absolute;
+    border: solid 1px rebeccapurple;
+    top: 100px;
+    width: 400px;
+    left: 100px;
+    height: 300px;
+}
+#SA{position: absolute;
+    border: solid 1px salmon;
+    top: 400px;
+    width: 400px;
+    left: 100px;
+    height: 300px;
+
+}
+#oseania
+{ position: absolute;
+    border: solid 1px red;
+}
+#antarktis{
+    position: absolute;
+    border: solid 1px blueviolet;
+}
+
+#demo{
+    position: absolute;
+    left: 600px;
+    color: white;
+    top: 250px;
+}
