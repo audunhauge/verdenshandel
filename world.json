@@ -261,5 +261,24 @@
             "hungary": 7,
             "russia": 5
         }
+    },
+    "poland":
+    {
+        "eksport":{
+            "tot":330.68,
+            "germany":27,
+            "czechia":6,
+            "uk": 6,
+            "france":6,
+            "italy": 5
+        },
+        "import": {
+            "tot":302.87,
+            "germany": 25,
+            "china": 10,
+            "italy":5,
+            "netherlands": 5
+        }
     }
+
 }
