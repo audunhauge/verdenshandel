@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verdenskart</title>
+    <link rel="stylesheet" href="verdenskart.css">
+</head>
+<body style="margin": 0 auto; width:780px;>
+<img id="img" src="verdenskartsvart.jpg" alt="verdenskart" usemap="#verdenskart"/>
+
+
+    
+ <div class="kontinet" id="asia">.</div>
+ <div class="kontinet" id="afrika">.</div>
+ <!-- <div class="kontinet" class="circleBase">.</div> -->
+ <div class="kontinet" id="europa">.</div>
+ <div class="kontinet" id="NA">.</div>
+ <div class="kontinet" id="SA">.</div>
+ <div class="kontinet" id="oseania">.</div>
+ <div class="kontinet" id="antarktis">.</div>
+ <!-- <p id="demo">.</p> -->
+
+<script>
+Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", myFunction));
+
+function lagLandListe(event) {
+    const kontinet = event.target.id
+}
+</script>
+
+
+
+
+</script>
+<img src="verdenskartsvart.jpg" width="145" height="126" alt="Planets" usemap="#planetmap"/>
+
+<map name="planetmap">
+    <area class="yellow" shape="rect" coords="0,0,82,126" href="" />
+    <area shape="circle" coords="90,58,3" href="" />
+    <area shape="circle" coords="124,58,8" href="" />
+</map>
+
+</div>
+</body>
+</html>
