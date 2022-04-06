@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verdenskart</title>
+    <link rel="stylesheet" href="verdenskart.css">
+</head>
+<body style="margin: 0 auto; width:780px;">
+<img id="img" src="verdenskartsvart.jpg" alt="verdenskart" usemap="#verdenskart"/>
+
+
+    
+ <div class="kontinet" id="Asia">.</div>
+ <div class="kontinet" id="Afrika">.</div>
+ <!-- <div class="kontinet" class="circleBase">.</div> -->
+ <div class="kontinet" id="Europe">.</div>
+ <div class="kontinet" id="North America">.</div>
+ <div class="kontinet" id="Soth America">.</div>
+ <div class="kontinet" id="Oseania">.</div>
+ <div class="kontinet" id="Antactica">.</div>
+ <!-- <p id="demo">.</p> -->
+
+<script>
+Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", lagLandListe));
+
+async function lagLandListe(event) {
+    const kontinet = event.target.id;
+
+    const getLand = await fetch('land.json');
+    const land = await getLand.json();
+    console.log(land.filter(ld => ld.continent === kontinet));
+
+}
+</script>
+
+
+
+
+</script>
+<img src="verdenskartsvart.jpg" width="145" height="126" alt="Planets" usemap="#planetmap"/>
+
+<map name="planetmap">
+    <area class="yellow" shape="rect" coords="0,0,82,126" href="" />
+    <area shape="circle" coords="90,58,3" href="" />
+    <area shape="circle" coords="124,58,8" href="" />
+</map>
+
+</div>
+</body>
+</html>
