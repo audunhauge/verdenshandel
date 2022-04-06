@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verdenskart</title>
+    <link rel="stylesheet" href="verdenskart.css">
+</head>
+
+<img id="img" src="verdenskartsvart.jpg" alt="verdenskart" usemap="#verdenskart"/>
+
+<button id="btn">Get Selected Countries</button>
+
+    
+ <div class="kontinet" id="asia">.</div>
+ <div class="kontinet" id="afrika">.</div>
+ <div class="kontinet" id="europa">.</div>
+ <div class="kontinet" id="NA">.</div>
+ <div class="kontinet" id="SA">.</div>
+ <div class="kontinet" id="oseania">.</div>
+ <div class="kontinet" id="antarktis">.</div>
+
+<script>
+Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", lagLandListe));
+
+function lagLandListe(event) {
+    const kontinet = event.target.id;
+
+
+
+  (async () => {
+    console.log(kontinet)
+
+            const lesText = await fetch('land.json');
+            const text = await lesText.json();
+            let Europa = (text.filter(land => land.continent === "Europe"));
+            let Oceania = (text.filter(land => land.continent === "Oceania"));
+            let Africa = (text.filter(land => land.continent === "Africa"));
+            let Asia = (text.filter(land => land.continent === "Asia"));
+            let NorthAmerica = (text.filter(land => land.continent === "North America"));
+            let SouthAmerica = (text.filter(land => land.continent === "South America"));
+
+            let countries = [];
+            if(kontinet === "europa") { (Europa.filter(land => countries.push(land.country)));}
+            if(kontinet === "NA") { (NorthAmerica.filter(land => countries.push(land.country)));}
+            if(kontinet === "oseania") { (Oceania.filter(land => countries.push(land.country)));}
+            if(kontinet === "SA") { (SouthAmerica.filter(land => countries.push(land.country)));}
+            if(kontinet === "asia") { (Asia.filter(land => countries.push(land.country)));}
+            if(kontinet === "afrika") { (Africa.filter(land => countries.push(land.country)));}
+
+            /**
+             * @param {string} text
+             * @param {{ appendChild: (arg0: HTMLDivElement) => void; }} plass
+             */
+            function createThis(text, plass) {
+
+                const newDiv = document.createElement("div");
+                const newContent = document.createTextNode(text)
+                newDiv.appendChild(newContent);
+                plass.appendChild(newDiv)
+            }
+
+
+            for (let i = 0; i < countries.length; i++) {
+                let verdi = countries[i];
+                var txt = verdi;
+                var name = 'checkbox'; 
+                var id = verdi;
+                var row = document.createElement('div');
+                document.body.appendChild(row);
+                var radioBut = document.createElement('input');
+                radioBut.setAttribute('type', 'checkbox');
+                radioBut.setAttribute('name', name);
+                radioBut.setAttribute('id', id);
+                row.appendChild(radioBut);
+                var label = document.createElement('label');
+                label.setAttribute('for', id);
+                label.innerHTML = txt;
+                row.appendChild(label);
+            }
+        }
+
+
+        )()
+        let values = [];
+        const btn = document.querySelector('#btn');
+        btn.addEventListener('click', (event) => {
+            let checkboxes = document.querySelectorAll(`input[name="checkbox"]:checked`);
+            checkboxes.forEach((checkbox) => {
+                values.push(checkbox.id);
+            });
+            console.log(values)
+        });
+    }
+</script>
+
+
+<img src="verdenskartsvart.jpg" width="145" height="126" alt="Planets" usemap="#planetmap"/>
+
+<map name="planetmap">
+    <area class="yellow" shape="rect" coords="0,0,82,126" href="" />
+    <area shape="circle" coords="90,58,3" href="" />
+    <area shape="circle" coords="124,58,8" href="" />
+</map>
+
+</div>
+</body>
+</html>
