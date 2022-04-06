@@ -1,22 +1,32 @@
 
 #img{
     position: absolute;
-    left: 70px;
+    left: 190px;
     width:1000px;
     
+}
+
+#main {
+    position: absolute;
+    left: 250px;
+    top: 50px;
 }
 
 #asia{
     position: absolute;
     border: solid 1px black;
-    right: 40px;
+    right: -960px;
+    top: 100px;
+    width: 320px;
+    height: 257px;
+   
 }
 
 #afrika{
     position: absolute;
     border: solid 1px teal;
     width: 150px;
-    left: 530px;
+    left: 660px;
     top: 300px;
     height: 300px;
     border-radius: 40%;
@@ -29,8 +39,8 @@
 #europa{
     position: absolute;
     border: 1px solid rgb(223, 157, 167);
-    width: 400px;
-    left: 500px;
+    width: 200px;
+    left: 630px;
     height: 220px;
     top: 100px;
 
@@ -40,25 +50,26 @@
     border: solid 1px rebeccapurple;
     top: 100px;
     width: 400px;
-    left: 100px;
+    left: 220px;
     height: 300px;
 }
 #SA{position: absolute;
     border: solid 1px salmon;
     top: 400px;
-    width: 400px;
-    left: 100px;
+    width: 200px;
+    left: 400px;
     height: 300px;
 
 }
 #oseania
-{ position: absolute;
+{ position: relative;
     border: solid 1px red;
+    width: 200px;
+    left: 921px;
+    height: 300px;
+    top: 367px;
 }
-#antarktis{
-    position: absolute;
-    border: solid 1px blueviolet;
-}
+
 
 #demo{
     position: absolute;
