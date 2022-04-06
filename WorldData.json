@@ -1,1297 +1,1602 @@
 {
   "afghanistan": {
     "eksport": {
-      "tot": "1",
-      "United Arab Emirates ": "45",
-      " Pakistan ": "24",
-      " India ": "22",
-      " China": "1"
+      "tot": "148",
+      "united arab emirates": "45",
+      "pakistan": "24",
+      "india": "22",
+      "china": "1"
     }
   },
   "albania": {
     "eksport": {
-      "tot": "3",
-      "Italy ": "45",
-      " Spain ": "8",
-      " Germany ": "6",
-      " Greece ": "5",
-      " France ": "4",
-      " China": "4"
+      "tot": "347",
+      "italy": "45",
+      "spain": "8",
+      "germany": "6",
+      "greece": "5",
+      "france": "4",
+      "china": "4"
     }
   },
   "algeria": {
     "eksport": {
-      "tot": "38",
-      "Italy ": "13",
-      " France ": "13",
-      " Spain ": "12",
-      " United States ": "7",
-      " United Kingdom ": "7",
-      " India ": "5",
-      " South Korea": "5"
+      "tot": "3832",
+      "italy": "13",
+      "france": "13",
+      "spain": "12",
+      "united states": "7",
+      "united kingdom": "7",
+      "india": "5",
+      "south korea": "5"
+    }
+  },
+  "american samoa": {
+    "eksport": {
+      "tot": "615",
+      "fiji .": "10",
+      "singapore .": "10",
+      "nz .": "10",
+      "south korea .": "9",
+      "samoa .": "8",
+      "kenya .": "6",
+      "australia": "5"
     }
   },
   "angola": {
     "eksport": {
       "tot": "21",
-      "China ": "62",
-      " India ": "10",
-      " United Arab Emirates ": "4",
-      " Portugal ": "3",
-      " Spain": "3"
+      "china": "62",
+      "india": "10",
+      "united arab emirates": "4",
+      "portugal": "3",
+      "spain": "3"
+    }
+  },
+  "antigua and barbuda": {
+    "eksport": {
+      "tot": "112",
+      "united states": "39",
+      "poland": "16",
+      "china": "7"
     }
   },
   "argentina": {
     "eksport": {
-      "tot": "64",
-      "Brazil ": "16",
-      " China ": "11",
-      " United States ": "7",
-      " Chile": "5"
+      "tot": "6418",
+      "brazil": "16",
+      "china": "11",
+      "united states": "7",
+      "chile": "5"
     }
   },
   "armenia": {
     "eksport": {
-      "tot": "3",
-      "Russia ": "22",
-      " Switzerland ": "20",
-      " China ": "7",
-      " Bulgaria ": "6",
-      " Iraq ": "5",
-      " Serbia ": "5",
-      " Netherlands ": "5",
-      " Germany": "5"
+      "tot": "382",
+      "russia": "22",
+      "switzerland": "20",
+      "china": "7",
+      "bulgaria": "6",
+      "iraq": "5",
+      "serbia": "5",
+      "netherlands": "5",
+      "germany": "5"
     }
   },
   "australia": {
     "eksport": {
-      "tot": "299",
-      "China ": "39",
-      " Japan ": "15",
-      " South Korea ": "7",
-      " India": "5"
+      "tot": "29904",
+      "china": "39",
+      "japan": "15",
+      "south korea": "7",
+      "india": "5"
     }
   },
   "austria": {
     "eksport": {
-      "tot": "226",
-      "Germany ": "28",
-      " United States ": "7",
-      " Italy ": "6",
-      " Switzerland": "5"
+      "tot": "22679",
+      "germany": "28",
+      "united states": "7",
+      "italy": "6",
+      "switzerland": "5"
     }
   },
   "azerbaijan": {
     "eksport": {
-      "tot": "15",
-      "Italy ": "28",
-      " Turkey ": "15",
-      " Israel ": "7",
-      " Germany ": "5",
-      " India": "5"
+      "tot": "1521",
+      "italy": "28",
+      "turkey": "15",
+      "israel": "7",
+      "germany": "5",
+      "india": "5"
     }
   },
   "bahrain": {
     "eksport": {
-      "tot": "30",
-      "United Arab Emirates ": "31",
-      " Saudi Arabia ": "12",
-      " Japan ": "8",
-      " United States": "8"
+      "tot": "301",
+      "united arab emirates": "31",
+      "saudi arabia": "12",
+      "japan": "8",
+      "united states": "8"
     }
   },
   "bangladesh": {
     "eksport": {
-      "tot": "38",
-      "United States ": "15",
-      " Germany ": "14",
-      " United Kingdom ": "8",
-      " Spain ": "7",
-      " France": "7"
+      "tot": "3878",
+      "united states": "15",
+      "germany": "14",
+      "united kingdom": "8",
+      "spain": "7",
+      "france": "7"
     }
   },
   "barbados": {
     "eksport": {
-      "tot": "485",
-      "US ": "21",
-      " Poland ": "14",
-      " Jamaica ": "8",
-      " Guyana ": "6",
-      "Trinidad and Tobago": "6"
+      "tot": "4854",
+      "us": "21",
+      "poland": "14",
+      "jamaica": "8",
+      "guyana": "6",
+      "trinidad and tobago": "6"
     }
   },
   "belarus": {
     "eksport": {
-      "tot": "37",
-      "Russia ": "42",
-      " Ukraine ": "13",
-      " United Kingdom": "7"
+      "tot": "3704",
+      "russia": "42",
+      "ukraine": "13",
+      "united kingdom": "7"
     }
   },
   "belgium": {
     "eksport": {
-      "tot": "414",
-      "Germany ": "17",
-      " France ": "14",
-      " Netherlands ": "13",
-      " United Kingdom ": "8",
-      " United States ": "6",
-      " Italy": "5"
+      "tot": "41479",
+      "germany": "17",
+      "france": "14",
+      "netherlands": "13",
+      "united kingdom": "8",
+      "united states": "6",
+      "italy": "5"
     }
   },
   "belize": {
     "eksport": {
       "tot": "710",
-      "United Kingdom ": "27",
-      " United States ": "24",
-      " Spain ": "6",
-      " Jamaica ": "5",
-      " Ireland": "5"
+      "united kingdom": "27",
+      "united states": "24",
+      "spain": "6",
+      "jamaica": "5",
+      "ireland": "5"
     }
   },
   "benin": {
     "eksport": {
-      "tot": "3",
-      "Nigeria ": "25",
-      " Bangladesh ": "14",
-      " United Arab Emirates ": "14",
-      " India ": "13",
-      " China ": "8",
-      " Vietnam": "5"
+      "tot": "358",
+      "nigeria": "25",
+      "bangladesh": "14",
+      "united arab emirates": "14",
+      "india": "13",
+      "china": "8",
+      "vietnam": "5"
     }
   },
   "bermuda": {
     "eksport": {
-      "tot": "1",
-      "Jamaica .": "49",
-      " Luxembourg .": "36",
-      " US . ()": "4"
+      "tot": "159",
+      "jamaica .": "49",
+      "luxembourg .": "36",
+      "united states": "4"
     }
   },
   "bhutan": {
     "eksport": {
       "tot": "790",
-      "India": "94"
+      "india": "94"
     }
   },
   "bolivia": {
     "eksport": {
-      "tot": "7",
-      "Argentina ": "16",
-      " Brazil ": "15",
-      " United Arab Emirates ": "12",
-      " India ": "10",
-      " United States ": "6",
-      " South Korea ": "5",
-      " Peru ": "5",
-      " Colombia": "5"
+      "tot": "755",
+      "argentina": "16",
+      "brazil": "15",
+      "united arab emirates": "12",
+      "india": "10",
+      "united states": "6",
+      "south korea": "5",
+      "peru": "5",
+      "colombia": "5"
+    }
+  },
+  "bosnia and herzegovina": {
+    "eksport": {
+      "tot": "681",
+      "germany": "14",
+      "italy": "12",
+      "croatia": "11",
+      "serbia": "11",
+      "austria": "9",
+      "slovenia": "8"
     }
   },
   "botswana": {
     "eksport": {
-      "tot": "6",
-      "India ": "21",
-      " Belgium ": "19",
-      " United Arab Emirates ": "19",
-      " South Africa ": "9",
-      " Israel ": "7",
-      " Hong Kong ": "6",
-      " Singapore": "5"
+      "tot": "616",
+      "india": "21",
+      "belgium": "19",
+      "united arab emirates": "19",
+      "south africa": "9",
+      "israel": "7",
+      "hong kong": "6",
+      "singapore": "5"
     }
   },
   "brazil": {
     "eksport": {
-      "tot": "239",
-      "China ": "28",
-      " United States": "13"
+      "tot": "23918",
+      "china": "28",
+      "united states": "13"
     }
   },
   "bulgaria": {
     "eksport": {
-      "tot": "39",
-      "Germany ": "16",
-      " Romania ": "8",
-      " Italy ": "7",
-      " Turkey ": "7",
-      " Greece": "6"
+      "tot": "3927",
+      "germany": "16",
+      "romania": "8",
+      "italy": "7",
+      "turkey": "7",
+      "greece": "6"
+    }
+  },
+  "burkina faso": {
+    "eksport": {
+      "tot": "447",
+      "switzerland": "59",
+      "india": "21"
     }
   },
   "burundi": {
     "eksport": {
       "tot": "290",
-      "United Arab Emirates ": "50",
-      " Democratic Republic of the Congo": "7"
+      "united arab emirates": "50",
+      "democratic republic of the congo": "7"
     }
   },
   "cambodia": {
     "eksport": {
-      "tot": "19",
-      "United States ": "21",
-      " Singapore ": "8",
-      " Thailand ": "8",
-      " Germany ": "7",
-      " Japan ": "6",
-      " China ": "5",
-      " Canada ": "5",
-      " United Kingdom": "5"
+      "tot": "194",
+      "united states": "21",
+      "singapore": "8",
+      "thailand": "8",
+      "germany": "7",
+      "japan": "6",
+      "china": "5",
+      "canada": "5",
+      "united kingdom": "5"
     }
   },
   "cameroon": {
     "eksport": {
-      "tot": "7",
-      "China ": "17",
-      " Netherlands ": "14",
-      " Italy ": "9",
-      " United Arab Emirates ": "8",
-      " India ": "7",
-      " United States ": "6",
-      " Belgium ": "6",
-      " Spain ": "5",
-      " France": "5"
+      "tot": "773",
+      "china": "17",
+      "netherlands": "14",
+      "italy": "9",
+      "united arab emirates": "8",
+      "india": "7",
+      "united states": "6",
+      "belgium": "6",
+      "spain": "5",
+      "france": "5"
     }
   },
   "canada": {
     "eksport": {
-      "tot": "477",
-      "US": "73"
+      "tot": "47731",
+      "us": "73"
     }
   },
   "chad": {
     "eksport": {
-      "tot": "2",
-      "China ": "32",
-      " United Arab Emirates ": "21",
-      " India ": "19",
-      " United States ": "10",
-      " France ": "6",
-      " Germany": "5"
+      "tot": "2464",
+      "china": "32",
+      "united arab emirates": "21",
+      "india": "19",
+      "united states": "10",
+      "france": "6",
+      "germany": "5"
     }
   },
   "chile": {
     "eksport": {
-      "tot": "79",
-      "China ": "32",
-      " United States ": "14",
-      " Japan ": "9",
-      " South Korea": "7"
+      "tot": "798",
+      "china": "32",
+      "united states": "14",
+      "japan": "9",
+      "south korea": "7"
     }
   },
   "china": {
     "eksport": {
-      "tot": "2",
-      "United States ": "17",
-      " Hong Kong ": "10",
-      " Japan": "6"
+      "tot": "2732370000000",
+      "united states": "17",
+      "hong kong": "10",
+      "japan": "6"
     }
   },
   "colombia": {
     "eksport": {
-      "tot": "39",
-      "United States ": "31",
-      " China ": "11",
-      " Panama ": "6",
-      " Ecuador": "5"
+      "tot": "3914",
+      "united states": "31",
+      "china": "11",
+      "panama": "6",
+      "ecuador": "5"
     }
   },
   "comoros": {
     "eksport": {
       "tot": "140",
-      "France ": "32",
-      " India ": "23",
-      " Germany ": "10",
-      " Turkey ": "9",
-      " Madagascar": "7"
+      "france": "32",
+      "india": "23",
+      "germany": "10",
+      "turkey": "9",
+      "madagascar": "7"
+    }
+  },
+  "costa rica": {
+    "eksport": {
+      "tot": "212",
+      "united states": "38",
+      "netherlands": "6",
+      "belgium": "5",
+      "guatemala": "5",
+      "panama": "5"
     }
   },
   "croatia": {
     "eksport": {
-      "tot": "23",
-      "Italy ": "13",
-      " Germany ": "13",
-      " Slovenia ": "10",
-      " Bosnia and Herzegovina ": "9",
-      " Austria ": "6",
-      " Serbia": "5"
+      "tot": "2366",
+      "italy": "13",
+      "germany": "13",
+      "slovenia": "10",
+      "bosnia and herzegovina": "9",
+      "austria": "6",
+      "serbia": "5"
     }
   },
   "cyprus": {
     "eksport": {
-      "tot": "16",
-      "India ": "9",
-      " Greece ": "9",
-      " Libya ": "8",
-      " United Kingdom": "7"
+      "tot": "161",
+      "india": "9",
+      "greece": "9",
+      "libya": "8",
+      "united kingdom": "7"
     }
   },
   "denmark": {
     "eksport": {
-      "tot": "191",
-      "Germany ": "14",
-      " United States ": "11",
-      " Sweden ": "10",
-      " United Kingdom ": "7",
-      " Norway ": "6",
-      " Netherlands ": "5",
-      " China": "5"
+      "tot": "19153",
+      "germany": "14",
+      "united states": "11",
+      "sweden": "10",
+      "united kingdom": "7",
+      "norway": "6",
+      "netherlands": "5",
+      "china": "5"
     }
   },
   "djibouti": {
     "eksport": {
-      "tot": "5",
-      "Saudi Arabia ": "42",
-      " India ": "15",
-      " China ": "14",
-      " Egypt ": "5",
-      " South Korea": "5"
+      "tot": "515",
+      "saudi arabia": "42",
+      "india": "15",
+      "china": "14",
+      "egypt": "5",
+      "south korea": "5"
     }
   },
   "dominica": {
     "eksport": {
       "tot": "430",
-      "$ million note: data are in current year dollars ( est.)": "430"
+      "united states": "57",
+      "nigeria": "11",
+      "china": "6",
+      "italy": "5"
+    }
+  },
+  "dominican republic": {
+    "eksport": {
+      "tot": "1444",
+      "united states": "54",
+      "switzerland": "8",
+      "canada": "5",
+      "india": "5",
+      "china": "5"
     }
   },
   "ecuador": {
     "eksport": {
-      "tot": "22",
-      "United States ": "30",
-      " China ": "13",
-      " Panama ": "8",
-      " Chile": "7"
+      "tot": "2223",
+      "united states": "30",
+      "china": "13",
+      "panama": "8",
+      "chile": "7"
     }
   },
   "egypt": {
     "eksport": {
-      "tot": "40",
-      "United States ": "9",
-      " United Arab Emirates ": "6",
-      " Italy ": "6",
-      " Turkey ": "6",
-      " Saudi Arabia ": "6",
-      " India": "5"
+      "tot": "401",
+      "united states": "9",
+      "united arab emirates": "6",
+      "italy": "6",
+      "turkey": "6",
+      "saudi arabia": "6",
+      "india": "5"
+    }
+  },
+  "el salvador": {
+    "eksport": {
+      "tot": "629",
+      "united states": "40",
+      "guatemala": "15",
+      "honduras": "15",
+      "nicaragua": "6"
+    }
+  },
+  "equatorial guinea": {
+    "eksport": {
+      "tot": "6245",
+      "united states": "22",
+      "spain": "19",
+      "china": "12",
+      "united kingdom": "6",
+      "united arab emirates": "5"
     }
   },
   "eritrea": {
     "eksport": {
-      "tot": "1",
-      "$. billion ( est.)": "1"
+      "tot": "1127",
+      "uae .": "14",
+      "china .": "13",
+      "saudi arabia .": "13",
+      "italy .": "12",
+      "turkey .": "5",
+      "south africa": "4"
     }
   },
   "estonia": {
     "eksport": {
-      "tot": "21",
-      "Finland ": "13",
-      " Sweden ": "9",
-      " Latvia ": "8",
-      " Russia ": "8",
-      " United States ": "7",
-      " Lithuania ": "6",
-      " Germany": "6"
+      "tot": "2169",
+      "finland": "13",
+      "sweden": "9",
+      "latvia": "8",
+      "russia": "8",
+      "united states": "7",
+      "lithuania": "6",
+      "germany": "6"
     }
   },
   "ethiopia": {
     "eksport": {
-      "tot": "7",
-      "China ": "17",
-      " United States ": "16",
-      " United Arab Emirates ": "8",
-      " Saudi Arabia ": "6",
-      " South Korea ": "5",
-      " Germany": "5"
+      "tot": "762",
+      "china": "17",
+      "united states": "16",
+      "united arab emirates": "8",
+      "saudi arabia": "6",
+      "south korea": "5",
+      "germany": "5"
     }
   },
   "fiji": {
     "eksport": {
-      "tot": "1",
-      "United States ": "29",
-      " Australia ": "14",
-      " New Zealand ": "7",
-      " Japan ": "6",
-      " Tonga": "6"
+      "tot": "123",
+      "united states": "29",
+      "australia": "14",
+      "new zealand": "7",
+      "japan": "6",
+      "tonga": "6"
     }
   },
   "finland": {
     "eksport": {
-      "tot": "108",
-      "Germany ": "14",
-      " Sweden ": "10",
-      " United States ": "8",
-      " Netherlands ": "6",
-      " China ": "6",
-      " Russia": "5"
+      "tot": "10822",
+      "germany": "14",
+      "sweden": "10",
+      "united states": "8",
+      "netherlands": "6",
+      "china": "6",
+      "russia": "5"
     }
   },
   "france": {
     "eksport": {
-      "tot": "746",
-      "Germany ": "14",
-      " United States ": "8",
-      " Italy ": "7",
-      " Spain ": "7",
-      " Belgium ": "7",
-      " United Kingdom": "7"
+      "tot": "74691",
+      "germany": "14",
+      "united states": "8",
+      "italy": "7",
+      "spain": "7",
+      "belgium": "7",
+      "united kingdom": "7"
+    }
+  },
+  "french polynesia": {
+    "eksport": {
+      "tot": "2235",
+      "france": "27",
+      "south korea": "12",
+      "united states": "10",
+      "china": "7",
+      "nz": "6",
+      "singapore": "4"
     }
   },
   "gabon": {
     "eksport": {
-      "tot": "10",
-      "China ": "63",
-      " Singapore": "5"
+      "tot": "108",
+      "china": "63",
+      "singapore": "5"
     }
   },
   "georgia": {
     "eksport": {
-      "tot": "5",
-      "Russia ": "12",
-      " Azerbaijan ": "12",
-      " Armenia ": "9",
-      " Bulgaria ": "8",
-      " China ": "6",
-      " Turkey ": "6",
-      " Ukraine": "6"
+      "tot": "594",
+      "russia": "12",
+      "azerbaijan": "12",
+      "armenia": "9",
+      "bulgaria": "8",
+      "china": "6",
+      "turkey": "6",
+      "ukraine": "6"
     }
   },
   "germany": {
     "eksport": {
-      "tot": "1",
-      "$": "1",
-      "": "000",
-      " note: data are in current year dollars ( est.)": "000"
+      "tot": "1671650000000",
+      "united states": "9",
+      "france": "8",
+      "china": "7",
+      "netherlands": "6",
+      "united kingdom": "6",
+      "italy": "5",
+      "poland": "5",
+      "austria": "5"
     }
   },
   "ghana": {
     "eksport": {
-      "tot": "25",
-      "Switzerland ": "23",
-      " India ": "17",
-      " China ": "12",
-      " United Arab Emirates ": "8",
-      " South Africa": "8"
+      "tot": "2559",
+      "switzerland": "23",
+      "india": "17",
+      "china": "12",
+      "united arab emirates": "8",
+      "south africa": "8"
     }
   },
   "greece": {
     "eksport": {
-      "tot": "59",
-      "Italy ": "10",
-      " Germany ": "7",
-      " Turkey ": "5",
-      " Cyprus ": "5",
-      " Bulgaria": "5"
-    }
-  },
-  "greenland": {
-    "eksport": {
-      "tot": "783",
-      "$. million ( est.)": "783"
+      "tot": "5902",
+      "italy": "10",
+      "germany": "7",
+      "turkey": "5",
+      "cyprus": "5",
+      "bulgaria": "5"
     }
   },
   "guam": {
     "eksport": {
-      "tot": "2",
-      "$. billion ( est.)": "2"
+      "tot": "2964",
+      "singapore": "33",
+      "japan": "21",
+      "south korea": "18",
+      "hong kong": "9",
+      "malaysia": "6"
     }
   },
   "guatemala": {
     "eksport": {
-      "tot": "13",
-      "United States ": "33",
-      " El Salvador ": "12",
-      " Honduras ": "8",
-      " Mexico ": "5",
-      " Nicaragua": "5"
+      "tot": "1312",
+      "united states": "33",
+      "el salvador": "12",
+      "honduras": "8",
+      "mexico": "5",
+      "nicaragua": "5"
     }
   },
   "guinea": {
     "eksport": {
-      "tot": "4",
-      "United Arab Emirates ": "39",
-      " China ": "36",
-      " India": "6"
+      "tot": "404",
+      "united arab emirates": "39",
+      "china": "36",
+      "india": "6"
     }
   },
   "guyana": {
     "eksport": {
-      "tot": "1",
-      "Trinidad and Tobago ": "31",
-      " Canada ": "11",
-      " Portugal ": "11",
-      " Ghana ": "8",
-      " Norway ": "6",
-      " United Arab Emirates": "5"
+      "tot": "18",
+      "trinidad and tobago": "31",
+      "canada": "11",
+      "portugal": "11",
+      "ghana": "8",
+      "norway": "6",
+      "united arab emirates": "5"
     }
   },
   "honduras": {
     "eksport": {
-      "tot": "7",
-      "United States ": "53",
-      " El Salvador ": "8",
-      " Guatemala ": "5",
-      " Nicaragua": "5"
+      "tot": "716",
+      "united states": "53",
+      "el salvador": "8",
+      "guatemala": "5",
+      "nicaragua": "5"
+    }
+  },
+  "hong kong": {
+    "eksport": {
+      "tot": "61588",
+      "china": "23",
+      "india": "14",
+      "netherlands": "6",
+      "united kingdom": "5"
     }
   },
   "hungary": {
     "eksport": {
-      "tot": "123",
-      "Germany ": "27",
-      " Romania ": "5",
-      " Italy ": "5",
-      " Slovakia": "5"
+      "tot": "12383",
+      "germany": "27",
+      "romania": "5",
+      "italy": "5",
+      "slovakia": "5"
     }
   },
   "iceland": {
     "eksport": {
-      "tot": "7",
-      "Netherlands ": "23",
-      " United Kingdom ": "9",
-      " Germany ": "9",
-      " Spain ": "8",
-      " United States ": "7",
-      " France ": "7",
-      " Canada": "5"
+      "tot": "743",
+      "netherlands": "23",
+      "united kingdom": "9",
+      "germany": "9",
+      "spain": "8",
+      "united states": "7",
+      "france": "7",
+      "canada": "5"
     }
   },
   "india": {
     "eksport": {
-      "tot": "484",
-      "United States ": "17",
-      " United Arab Emirates ": "9",
-      " China": "5"
+      "tot": "48495",
+      "united states": "17",
+      "united arab emirates": "9",
+      "china": "5"
     }
   },
   "indonesia": {
     "eksport": {
-      "tot": "178",
-      "China ": "15",
-      " United States ": "10",
-      " Japan ": "9",
-      " Singapore ": "8",
-      " India ": "7",
-      " Malaysia": "5"
+      "tot": "17826",
+      "china": "15",
+      "united states": "10",
+      "japan": "9",
+      "singapore": "8",
+      "india": "7",
+      "malaysia": "5"
     }
   },
   "iraq": {
     "eksport": {
-      "tot": "50",
-      "China ": "26",
-      " India ": "24",
-      " South Korea ": "9",
-      " United States ": "8",
-      " Italy ": "6",
-      " Greece": "6"
+      "tot": "5061",
+      "china": "26",
+      "india": "24",
+      "south korea": "9",
+      "united states": "8",
+      "italy": "6",
+      "greece": "6"
     }
   },
   "ireland": {
     "eksport": {
-      "tot": "502",
-      "United States ": "28",
-      " Belgium ": "10",
-      " Germany ": "10",
-      " UK ": "9",
-      " China ": "5",
-      " Netherlands": "5"
+      "tot": "50231",
+      "united states": "28",
+      "belgium": "10",
+      "germany": "10",
+      "uk": "9",
+      "china": "5",
+      "netherlands": "5"
     }
   },
   "israel": {
     "eksport": {
-      "tot": "113",
-      "United States ": "26",
-      " China ": "9",
-      " United Kingdom": "7"
+      "tot": "11387",
+      "united states": "26",
+      "china": "9",
+      "united kingdom": "7"
     }
   },
   "italy": {
     "eksport": {
-      "tot": "558",
-      "Germany ": "12",
-      " France ": "11",
-      " United States ": "10",
-      " United Kingdom ": "5",
-      " Spain ": "5",
-      " Switzerland": "5"
+      "tot": "55826",
+      "germany": "12",
+      "france": "11",
+      "united states": "10",
+      "united kingdom": "5",
+      "spain": "5",
+      "switzerland": "5"
     }
   },
   "jamaica": {
     "eksport": {
-      "tot": "5",
-      "United States ": "32",
-      " Netherlands ": "11",
-      " Germany ": "9",
-      " Canada ": "7",
-      " Iceland": "7"
+      "tot": "592",
+      "united states": "32",
+      "netherlands": "11",
+      "germany": "9",
+      "canada": "7",
+      "iceland": "7"
     }
   },
   "japan": {
     "eksport": {
-      "tot": "793",
-      "United States ": "19",
-      " China ": "18",
-      " South Korea ": "6",
-      " Taiwan": "6"
+      "tot": "79332",
+      "united states": "19",
+      "china": "18",
+      "south korea": "6",
+      "taiwan": "6"
     }
   },
   "jordan": {
     "eksport": {
-      "tot": "16",
-      "United States ": "21",
-      " Saudi Arabia ": "13",
-      " India ": "8",
-      " Iraq ": "7",
-      " United Arab Emirates ": "5",
-      " China": "5"
+      "tot": "1629",
+      "united states": "21",
+      "saudi arabia": "13",
+      "india": "8",
+      "iraq": "7",
+      "united arab emirates": "5",
+      "china": "5"
     }
   },
   "kazakhstan": {
     "eksport": {
-      "tot": "51",
-      "China ": "13",
-      " Italy ": "12",
-      " Russia ": "10",
-      " Netherlands ": "7",
-      " France ": "6",
-      " South Korea": "5"
+      "tot": "5175",
+      "china": "13",
+      "italy": "12",
+      "russia": "10",
+      "netherlands": "7",
+      "france": "6",
+      "south korea": "5"
     }
   },
   "kenya": {
     "eksport": {
-      "tot": "11",
-      "Uganda ": "10",
-      " United States ": "9",
-      " Netherlands ": "8",
-      " Pakistan ": "7",
-      " United Kingdom ": "6",
-      " United Arab Emirates ": "6",
-      " Tanzania": "5"
+      "tot": "1149",
+      "uganda": "10",
+      "united states": "9",
+      "netherlands": "8",
+      "pakistan": "7",
+      "united kingdom": "6",
+      "united arab emirates": "6",
+      "tanzania": "5"
     }
   },
   "kiribati": {
     "eksport": {
       "tot": "180",
-      "$ million note: data are in current year dollars ( est.)": "180"
+      "china": "20",
+      "fiji": "19",
+      "australia": "12",
+      "taiwan": "11",
+      "south korea": "11",
+      "new zealand": "7",
+      "japan": "5"
     }
   },
   "kuwait": {
     "eksport": {
-      "tot": "72",
-      "China ": "20",
-      " South Korea ": "16",
-      " India ": "15",
-      " Japan ": "10",
-      " Taiwan ": "6",
-      " Vietnam": "5"
+      "tot": "7283",
+      "china": "20",
+      "south korea": "16",
+      "india": "15",
+      "japan": "10",
+      "taiwan": "6",
+      "vietnam": "5"
     }
   },
   "kyrgyzstan": {
     "eksport": {
-      "tot": "3",
-      "United Kingdom ": "56",
-      " Kazakhstan ": "13",
-      " Russia ": "13",
-      " Uzbekistan": "5"
+      "tot": "311",
+      "united kingdom": "56",
+      "kazakhstan": "13",
+      "russia": "13",
+      "uzbekistan": "5"
     }
   },
   "latvia": {
     "eksport": {
-      "tot": "20",
-      "Lithuania ": "16",
-      " Estonia ": "10",
-      " Russia ": "9",
-      " Germany ": "7",
-      " Sweden ": "6",
-      " United Kingdom": "6"
+      "tot": "2023",
+      "lithuania": "16",
+      "estonia": "10",
+      "russia": "9",
+      "germany": "7",
+      "sweden": "6",
+      "united kingdom": "6"
     }
   },
   "lebanon": {
     "eksport": {
-      "tot": "18",
-      "Switzerland ": "27",
-      " United Arab Emirates ": "15",
-      " South Korea ": "11",
-      " Saudi Arabia ": "7",
-      " Kuwait": "6"
+      "tot": "1817",
+      "switzerland": "27",
+      "united arab emirates": "15",
+      "south korea": "11",
+      "saudi arabia": "7",
+      "kuwait": "6"
     }
   },
   "lesotho": {
     "eksport": {
       "tot": "900",
-      "$ million note: data are in current year dollars ( est.)": "900"
+      "united states": "29",
+      "belgium": "26",
+      "south africa": "25",
+      "switzerland": "6"
     }
   },
   "liberia": {
     "eksport": {
       "tot": "550",
-      "Guyana ": "32",
-      " Poland ": "10",
-      " Switzerland ": "8",
-      " Japan ": "7",
-      " China": "5"
+      "guyana": "32",
+      "poland": "10",
+      "switzerland": "8",
+      "japan": "7",
+      "china": "5"
     }
   },
   "lithuania": {
     "eksport": {
-      "tot": "41",
-      "Russia ": "13",
-      " Latvia ": "9",
-      " Poland ": "8",
-      " Germany ": "7",
-      " Estonia": "5"
+      "tot": "4148",
+      "russia": "13",
+      "latvia": "9",
+      "poland": "8",
+      "germany": "7",
+      "estonia": "5"
     }
   },
   "luxembourg": {
     "eksport": {
-      "tot": "137",
-      "Germany ": "23",
-      " France ": "13",
-      " Belgium ": "12",
-      " Netherlands ": "6",
-      " Italy": "5"
+      "tot": "13709",
+      "germany": "23",
+      "france": "13",
+      "belgium": "12",
+      "netherlands": "6",
+      "italy": "5"
     }
   },
   "malawi": {
     "eksport": {
-      "tot": "1",
-      "Belgium ": "16",
-      " United States ": "8",
-      " Egypt ": "7",
-      " South Africa ": "6",
-      " Germany ": "6",
-      " Kenya ": "5",
-      " United Arab Emirates": "5"
+      "tot": "116",
+      "belgium": "16",
+      "united states": "8",
+      "egypt": "7",
+      "south africa": "6",
+      "germany": "6",
+      "kenya": "5",
+      "united arab emirates": "5"
     }
   },
   "malaysia": {
     "eksport": {
-      "tot": "207",
-      "Singapore ": "13",
-      " China ": "13",
-      " United States ": "11",
-      " Hong Kong ": "6",
-      " Japan ": "6",
-      " Thailand": "5"
+      "tot": "20737",
+      "singapore": "13",
+      "china": "13",
+      "united states": "11",
+      "hong kong": "6",
+      "japan": "6",
+      "thailand": "5"
     }
   },
   "maldives": {
     "eksport": {
-      "tot": "3",
-      "Thailand ": "24",
-      " United States ": "13",
-      " China ": "12",
-      " France ": "11",
-      " Germany ": "11",
-      " Italy ": "5",
-      " United Kingdom": "5"
+      "tot": "372",
+      "thailand": "24",
+      "united states": "13",
+      "china": "12",
+      "france": "11",
+      "germany": "11",
+      "italy": "5",
+      "united kingdom": "5"
     }
   },
   "mali": {
     "eksport": {
-      "tot": "4",
-      "United Arab Emirates ": "66",
-      " Switzerland": "26"
+      "tot": "418",
+      "united arab emirates": "66",
+      "switzerland": "26"
     }
   },
   "malta": {
     "eksport": {
-      "tot": "19",
-      "Germany ": "12",
-      " France ": "9",
-      " Italy": "9"
+      "tot": "1904",
+      "germany": "12",
+      "france": "9",
+      "italy": "9"
     }
   },
   "mauritania": {
     "eksport": {
-      "tot": "2",
-      "China ": "32",
-      " Switzerland ": "13",
-      " Spain ": "9",
-      " Japan ": "9",
-      " Italy": "5"
+      "tot": "252",
+      "china": "32",
+      "switzerland": "13",
+      "spain": "9",
+      "japan": "9",
+      "italy": "5"
     }
   },
   "mauritius": {
     "eksport": {
-      "tot": "5",
-      "France ": "10",
-      " South Africa ": "10",
-      " United States ": "10",
-      " United Kingdom ": "8",
-      " Zambia ": "7",
-      " Madagascar": "6"
+      "tot": "517",
+      "france": "10",
+      "south africa": "10",
+      "united states": "10",
+      "united kingdom": "8",
+      "zambia": "7",
+      "madagascar": "6"
     }
   },
   "mexico": {
     "eksport": {
-      "tot": "434",
-      "United States": "75"
+      "tot": "43493",
+      "united states": "75"
     }
   },
   "mongolia": {
     "eksport": {
-      "tot": "7",
-      "China ": "81",
-      " Switzerland": "9"
+      "tot": "765",
+      "china": "81",
+      "switzerland": "9"
     }
   },
   "morocco": {
     "eksport": {
-      "tot": "37",
-      "Spain ": "23",
-      " France": "19"
+      "tot": "3752",
+      "spain": "23",
+      "france": "19"
     }
   },
   "mozambique": {
     "eksport": {
-      "tot": "4",
-      "South Africa ": "16",
-      " India ": "13",
-      " China ": "12",
-      " Italy ": "7",
-      " United Arab Emirates ": "5",
-      " Germany": "5"
+      "tot": "435",
+      "south africa": "16",
+      "india": "13",
+      "china": "12",
+      "italy": "7",
+      "united arab emirates": "5",
+      "germany": "5"
     }
   },
   "namibia": {
     "eksport": {
-      "tot": "3",
-      "China ": "27",
-      " South Africa ": "18",
-      " Botswana ": "8",
-      " Belgium": "7"
+      "tot": "356",
+      "china": "27",
+      "south africa": "18",
+      "botswana": "8",
+      "belgium": "7"
     }
   },
   "nepal": {
     "eksport": {
-      "tot": "1",
-      "India ": "68",
-      " United States": "10"
+      "tot": "179",
+      "india": "68",
+      "united states": "10"
     }
   },
   "netherlands": {
     "eksport": {
-      "tot": "719",
-      "Germany ": "20",
-      " Belgium ": "12",
-      " United Kingdom ": "9",
-      " France ": "7",
-      " United States": "5"
+      "tot": "71978",
+      "germany": "20",
+      "belgium": "12",
+      "united kingdom": "9",
+      "france": "7",
+      "united states": "5"
+    }
+  },
+  "new zealand": {
+    "eksport": {
+      "tot": "5043",
+      "china": "28",
+      "australia": "14",
+      "united states": "9",
+      "japan": "6"
     }
   },
   "nicaragua": {
     "eksport": {
-      "tot": "5",
-      "United States ": "60",
-      " El Salvador ": "5",
-      " Mexico": "5"
+      "tot": "534",
+      "united states": "60",
+      "el salvador": "5",
+      "mexico": "5"
     }
   },
   "niger": {
     "eksport": {
-      "tot": "1",
-      "United Arab Emirates ": "54",
-      " China ": "25",
-      " France ": "7",
-      " Pakistan": "5"
+      "tot": "139",
+      "united arab emirates": "54",
+      "china": "25",
+      "france": "7",
+      "pakistan": "5"
     }
   },
   "nigeria": {
     "eksport": {
-      "tot": "39",
-      "India ": "16",
-      " Spain ": "10",
-      " United States ": "7",
-      " France ": "7",
-      " Netherlands": "6"
+      "tot": "3994",
+      "india": "16",
+      "spain": "10",
+      "united states": "7",
+      "france": "7",
+      "netherlands": "6"
+    }
+  },
+  "northern mariana islands": {
+    "eksport": {
+      "tot": "893",
+      "hong kong": "29",
+      "japan": "29",
+      "singapore": "16",
+      "south korea": "9"
     }
   },
   "norway": {
     "eksport": {
-      "tot": "117",
-      "United Kingdom ": "18",
-      " Germany ": "14",
-      " Netherlands ": "10",
-      " Sweden ": "9",
-      " France ": "6",
-      " United States": "5"
+      "tot": "11706",
+      "united kingdom": "18",
+      "germany": "14",
+      "netherlands": "10",
+      "sweden": "9",
+      "france": "6",
+      "united states": "5"
     }
   },
   "oman": {
     "eksport": {
-      "tot": "43",
-      "China ": "46",
-      " India ": "8",
-      " Japan ": "6",
-      " South Korea ": "6",
-      " United Arab Emirates ": "6",
-      " Saudi Arabia": "5"
+      "tot": "4369",
+      "china": "46",
+      "india": "8",
+      "japan": "6",
+      "south korea": "6",
+      "united arab emirates": "6",
+      "saudi arabia": "5"
     }
   },
   "pakistan": {
     "eksport": {
-      "tot": "27",
-      "United States ": "14",
-      " China ": "8",
-      " Germany ": "7",
-      " United Kingdom": "6"
+      "tot": "273",
+      "united states": "14",
+      "china": "8",
+      "germany": "7",
+      "united kingdom": "6"
     }
   },
   "panama": {
     "eksport": {
-      "tot": "20",
-      "Ecuador ": "20",
-      " Guatemala ": "14",
-      " China ": "8",
-      " United States ": "6",
-      " Netherlands": "6"
+      "tot": "2018",
+      "ecuador": "20",
+      "guatemala": "14",
+      "china": "8",
+      "united states": "6",
+      "netherlands": "6"
+    }
+  },
+  "papua new guinea": {
+    "eksport": {
+      "tot": "106",
+      "australia": "26",
+      "china": "26",
+      "japan": "22",
+      "taiwan": "7"
     }
   },
   "paraguay": {
     "eksport": {
-      "tot": "11",
-      "Brazil ": "32",
-      " Argentina ": "22",
-      " Chile ": "8",
-      " Russia": "8"
+      "tot": "1181",
+      "brazil": "32",
+      "argentina": "22",
+      "chile": "8",
+      "russia": "8"
     }
   },
   "peru": {
     "eksport": {
-      "tot": "54",
-      "China ": "29",
-      " United States ": "12",
-      " Canada ": "5",
-      " South Korea ": "5",
-      " Switzerland": "5"
+      "tot": "5488",
+      "china": "29",
+      "united states": "12",
+      "canada": "5",
+      "south korea": "5",
+      "switzerland": "5"
     }
   },
   "philippines": {
     "eksport": {
-      "tot": "78",
-      "China ": "16",
-      " United States ": "15",
-      " Japan ": "13",
-      " Hong Kong ": "12",
-      " Singapore ": "7",
-      " Germany": "5"
+      "tot": "7882",
+      "china": "16",
+      "united states": "15",
+      "japan": "13",
+      "hong kong": "12",
+      "singapore": "7",
+      "germany": "5"
     }
   },
   "poland": {
     "eksport": {
-      "tot": "333",
-      "Germany ": "27",
-      " Czechia ": "6",
-      " United Kingdom ": "6",
-      " France ": "6",
-      " Italy": "5"
+      "tot": "33354",
+      "germany": "27",
+      "czechia": "6",
+      "united kingdom": "6",
+      "france": "6",
+      "italy": "5"
     }
   },
   "portugal": {
     "eksport": {
-      "tot": "85",
-      "Spain ": "23",
-      " France ": "13",
-      " Germany ": "12",
-      " United Kingdom ": "6",
-      " United States": "5"
+      "tot": "8528",
+      "spain": "23",
+      "france": "13",
+      "germany": "12",
+      "united kingdom": "6",
+      "united states": "5"
+    }
+  },
+  "puerto rico": {
+    "eksport": {
+      "tot": "7317",
+      "italy": "15",
+      "netherlands": "15",
+      "belgium": "9",
+      "japan": "8",
+      "germany": "8",
+      "austria": "8",
+      "spain": "7",
+      "china": "5"
     }
   },
   "qatar": {
     "eksport": {
-      "tot": "70",
-      "Japan ": "17",
-      " South Korea ": "16",
-      " India ": "14",
-      " China ": "13",
-      " Singapore": "7"
+      "tot": "7093",
+      "japan": "17",
+      "south korea": "16",
+      "india": "14",
+      "china": "13",
+      "singapore": "7"
     }
   },
   "romania": {
     "eksport": {
-      "tot": "93",
-      "Germany ": "22",
-      " Italy ": "10",
-      " France": "7"
+      "tot": "9301",
+      "germany": "22",
+      "italy": "10",
+      "france": "7"
     }
   },
   "rwanda": {
     "eksport": {
-      "tot": "2",
-      "United Arab Emirates ": "35",
-      " Democratic Republic of the Congo ": "28",
-      " Uganda": "5"
+      "tot": "225",
+      "united arab emirates": "35",
+      "democratic republic of the congo": "28",
+      "uganda": "5"
+    }
+  },
+  "saint kitts and nevis": {
+    "eksport": {
+      "tot": "590",
+      "united states": "59",
+      "peru": "6",
+      "germany": "5"
+    }
+  },
+  "saint lucia": {
+    "eksport": {
+      "tot": "122",
+      "united states": "29",
+      "uruguay": "16",
+      "barbados": "8",
+      "trinidad and tobago .": "5",
+      "united kingdom": "6",
+      "dominica": "6",
+      "guyana": "5",
+      "france": "5"
     }
   },
   "samoa": {
     "eksport": {
       "tot": "310",
-      "American Samoa ": "21",
-      " United States ": "13",
-      " New Zealand ": "12",
-      " Australia ": "10",
-      " Tokelau ": "6",
-      " Taiwan": "5"
+      "american samoa": "21",
+      "united states": "13",
+      "new zealand": "12",
+      "australia": "10",
+      "tokelau": "6",
+      "taiwan": "5"
+    }
+  },
+  "san marino": {
+    "eksport": {
+      "tot": "3827",
+      "romania": "10",
+      "france": "9",
+      "united states": "8",
+      "germany": "8",
+      "poland": "6",
+      "brazil": "6",
+      "russia": "6",
+      "austria": "6"
+    }
+  },
+  "sao tome and principe": {
+    "eksport": {
+      "tot": "50",
+      "singapore": "30",
+      "switzerland": "24",
+      "france": "11",
+      "poland": "7",
+      "belgium": "7",
+      "united states": "5"
+    }
+  },
+  "saudi arabia": {
+    "eksport": {
+      "tot": "18411",
+      "china": "20",
+      "india": "11",
+      "japan": "11",
+      "south korea": "9",
+      "united states": "5"
     }
   },
   "senegal": {
     "eksport": {
-      "tot": "5",
-      "Mali ": "22",
-      " Switzerland ": "14",
-      " India ": "9",
-      " China": "7"
+      "tot": "529",
+      "mali": "22",
+      "switzerland": "14",
+      "india": "9",
+      "china": "7"
     }
   },
   "seychelles": {
     "eksport": {
-      "tot": "1",
-      "United Arab Emirates ": "17",
-      " United Kingdom ": "13",
-      " France ": "12",
-      " British Virgin Islands ": "11",
-      " Zambia ": "9",
-      " Mauritius ": "5",
-      " Japan": "5"
+      "tot": "109",
+      "united arab emirates": "17",
+      "united kingdom": "13",
+      "france": "12",
+      "british virgin islands": "11",
+      "zambia": "9",
+      "mauritius": "5",
+      "japan": "5"
+    }
+  },
+  "sierra leone": {
+    "eksport": {
+      "tot": "740",
+      "belgium": "26",
+      "china": "25",
+      "romania": "9",
+      "united arab emirates": "6",
+      "germany": "5",
+      "netherlands": "5"
     }
   },
   "singapore": {
     "eksport": {
-      "tot": "599",
-      "China ": "15",
-      " Hong Kong ": "13",
-      " Malaysia ": "9",
-      " United States ": "8",
-      " Indonesia ": "7",
-      " India": "5"
+      "tot": "5992",
+      "china": "15",
+      "hong kong": "13",
+      "malaysia": "9",
+      "united states": "8",
+      "indonesia": "7",
+      "india": "5"
     }
   },
   "slovakia": {
     "eksport": {
-      "tot": "89",
-      "Germany ": "22",
-      " Czechia ": "11",
-      " Poland ": "7",
-      " France ": "7",
-      " Hungary ": "6",
-      " Austria ": "5",
-      " United Kingdom": "5"
+      "tot": "8992",
+      "germany": "22",
+      "czechia": "11",
+      "poland": "7",
+      "france": "7",
+      "hungary": "6",
+      "austria": "5",
+      "united kingdom": "5"
     }
   },
   "slovenia": {
     "eksport": {
-      "tot": "41",
-      "Germany ": "18",
-      " Italy ": "11",
-      " Croatia ": "8",
-      " Austria ": "7",
-      " France ": "5",
-      " Switzerland": "5"
+      "tot": "4173",
+      "germany": "18",
+      "italy": "11",
+      "croatia": "8",
+      "austria": "7",
+      "france": "5",
+      "switzerland": "5"
+    }
+  },
+  "solomon islands": {
+    "eksport": {
+      "tot": "430",
+      "china": "65",
+      "italy": "9",
+      "india": "6"
     }
   },
   "somalia": {
     "eksport": {
-      "tot": "94",
-      "$. billion ( est.)": "94"
+      "tot": "9443",
+      "united arab emirates": "32",
+      "china": "20",
+      "india": "17",
+      "turkey": "7"
+    }
+  },
+  "south africa": {
+    "eksport": {
+      "tot": "9301",
+      "china": "15",
+      "united kingdom": "8",
+      "germany": "7",
+      "united states": "6",
+      "india": "6"
     }
   },
   "spain": {
     "eksport": {
-      "tot": "392",
-      "France ": "15",
-      " Germany ": "11",
-      " Portugal ": "8",
-      " Italy ": "8",
-      " United Kingdom ": "7",
-      " United States": "5"
+      "tot": "39285",
+      "france": "15",
+      "germany": "11",
+      "portugal": "8",
+      "italy": "8",
+      "united kingdom": "7",
+      "united states": "5"
+    }
+  },
+  "sri lanka": {
+    "eksport": {
+      "tot": "1941",
+      "united states": "24",
+      "india": "8",
+      "united kingdom": "7",
+      "germany": "7"
     }
   },
   "sudan": {
     "eksport": {
-      "tot": "5",
-      "United Arab Emirates ": "31",
-      " China ": "19",
-      " Saudi Arabia ": "14",
-      " India ": "12",
-      " Egypt": "5"
+      "tot": "511",
+      "united arab emirates": "31",
+      "china": "19",
+      "saudi arabia": "14",
+      "india": "12",
+      "egypt": "5"
     }
   },
   "sweden": {
     "eksport": {
-      "tot": "240",
-      "Germany ": "10",
-      " Norway ": "9",
-      " United States ": "8",
-      " Denmark ": "7",
-      " Finland ": "6",
-      " United Kingdom ": "5",
-      " Netherlands ": "5",
-      " China": "5"
+      "tot": "24008",
+      "germany": "10",
+      "norway": "9",
+      "united states": "8",
+      "denmark": "7",
+      "finland": "6",
+      "united kingdom": "5",
+      "netherlands": "5",
+      "china": "5"
     }
   },
   "switzerland": {
     "eksport": {
-      "tot": "470",
-      "Germany ": "16",
-      " United States ": "14",
-      " United Kingdom ": "8",
-      " China ": "7",
-      " France ": "6",
-      " India ": "6",
-      " Italy": "5"
+      "tot": "47091",
+      "germany": "16",
+      "united states": "14",
+      "united kingdom": "8",
+      "china": "7",
+      "france": "6",
+      "india": "6",
+      "italy": "5"
     }
   },
   "tajikistan": {
     "eksport": {
-      "tot": "1",
-      "Turkey ": "24",
-      " Switzerland ": "22",
-      " Uzbekistan ": "16",
-      " Kazakhstan ": "12",
-      " China": "10"
+      "tot": "141",
+      "turkey": "24",
+      "switzerland": "22",
+      "uzbekistan": "16",
+      "kazakhstan": "12",
+      "china": "10"
     }
   },
   "thailand": {
     "eksport": {
-      "tot": "258",
-      "United States ": "13",
-      " China ": "12",
-      " Japan ": "10",
-      " Vietnam": "5"
+      "tot": "25842",
+      "united states": "13",
+      "china": "12",
+      "japan": "10",
+      "vietnam": "5"
     }
   },
   "timor-leste": {
     "eksport": {
       "tot": "60",
-      "Singapore ": "51",
-      " China ": "20",
-      " Japan ": "9",
-      " Indonesia": "6"
+      "singapore": "51",
+      "china": "20",
+      "japan": "9",
+      "indonesia": "6"
     }
   },
   "togo": {
     "eksport": {
-      "tot": "1",
-      "India ": "16",
-      " Benin ": "15",
-      " Burkina Faso ": "6",
-      " France ": "6",
-      " Morocco": "5"
+      "tot": "167",
+      "india": "16",
+      "benin": "15",
+      "burkina faso": "6",
+      "france": "6",
+      "morocco": "5"
     }
   },
   "tonga": {
     "eksport": {
       "tot": "90",
-      "United States ": "38",
-      " South Korea ": "18",
-      " Australia ": "14",
-      " New Zealand ": "14",
-      " Japan ": "6",
+      "united states": "38",
+      "south korea": "18",
+      "australia": "14",
+      "new zealand": "14",
+      "japan": "6",
       "  ()": "2019"
+    }
+  },
+  "trinidad and tobago": {
+    "eksport": {
+      "tot": "957",
+      "united states": "33",
+      "guyana": "9",
+      "spain": "6",
+      "china": "6"
     }
   },
   "tunisia": {
     "eksport": {
-      "tot": "19",
-      "France ": "29",
-      " Italy ": "17",
-      " Germany": "13"
+      "tot": "1917",
+      "france": "29",
+      "italy": "17",
+      "germany": "13"
     }
   },
   "turkey": {
     "eksport": {
-      "tot": "203",
-      "Germany ": "9",
-      " United Kingdom ": "6",
-      " Iraq ": "5",
-      " Italy ": "5",
-      " United States": "5"
+      "tot": "20329",
+      "germany": "9",
+      "united kingdom": "6",
+      "iraq": "5",
+      "italy": "5",
+      "united states": "5"
     }
   },
   "tuvalu": {
     "eksport": {
       "tot": "10",
-      "Thailand ": "50",
-      " Indonesia": "40"
+      "thailand": "50",
+      "indonesia": "40"
     }
   },
   "uganda": {
     "eksport": {
-      "tot": "6",
-      "United Arab Emirates ": "58",
-      " Kenya": "9"
+      "tot": "612",
+      "united arab emirates": "58",
+      "kenya": "9"
     }
   },
   "ukraine": {
     "eksport": {
-      "tot": "60",
-      "Russia ": "9",
-      " China ": "8",
-      " Germany ": "6",
-      " Poland ": "6",
-      " Italy ": "5",
-      " Turkey": "5"
+      "tot": "6067",
+      "russia": "9",
+      "china": "8",
+      "germany": "6",
+      "poland": "6",
+      "italy": "5",
+      "turkey": "5"
+    }
+  },
+  "united arab emirates": {
+    "eksport": {
+      "tot": "3085",
+      "india": "11",
+      "japan": "10",
+      "saudi arabia": "7",
+      "switzerland": "6",
+      "china": "6",
+      "iraq": "6"
+    }
+  },
+  "united kingdom": {
+    "eksport": {
+      "tot": "74195",
+      "united states": "15",
+      "germany": "10",
+      "china": "7",
+      "netherlands": "7",
+      "france": "7",
+      "ireland": "6"
+    }
+  },
+  "united states": {
+    "eksport": {
+      "tot": "2127250000000",
+      "canada": "17",
+      "mexico": "16",
+      "china": "7",
+      "japan": "5"
     }
   },
   "uruguay": {
     "eksport": {
-      "tot": "13",
-      "China ": "29",
-      " Brazil ": "12",
-      " United States ": "5",
-      " Netherlands ": "5",
-      " Argentina": "5"
+      "tot": "1355",
+      "china": "29",
+      "brazil": "12",
+      "united states": "5",
+      "netherlands": "5",
+      "argentina": "5"
     }
   },
   "uzbekistan": {
     "eksport": {
-      "tot": "14",
-      "Switzerland ": "19",
-      " United Kingdom ": "17",
-      " Russia ": "15",
-      " China ": "14",
-      " Kazakhstan ": "9",
-      " Turkey ": "8",
-      " Kyrgyzstan": "5"
+      "tot": "1452",
+      "switzerland": "19",
+      "united kingdom": "17",
+      "russia": "15",
+      "china": "14",
+      "kazakhstan": "9",
+      "turkey": "8",
+      "kyrgyzstan": "5"
     }
   },
   "vanuatu": {
     "eksport": {
       "tot": "380",
-      "Japan ": "33",
-      " Thailand ": "13",
-      " Mauritania ": "13",
-      " South Korea ": "11",
-      " China ": "9",
-      " Fiji": "7"
+      "japan": "33",
+      "thailand": "13",
+      "mauritania": "13",
+      "south korea": "11",
+      "china": "9",
+      "fiji": "7"
     }
   },
   "venezuela": {
     "eksport": {
-      "tot": "83",
-      "$. billion ( est.)": "83"
+      "tot": "83401",
+      "india": "34",
+      "china": "28",
+      "united states": "12",
+      "spain": "6"
+    }
+  },
+  "wallis and futuna": {
+    "eksport": {
+      "tot": "6117",
+      "france": "43",
+      "fiji": "24",
+      "new zealand": "11",
+      "australia": "6"
     }
   },
   "yemen": {
     "eksport": {
-      "tot": "384",
-      "China ": "53",
-      " Saudi Arabia ": "10",
-      " United Arab Emirates ": "7",
-      " Australia": "5"
+      "tot": "3845",
+      "china": "53",
+      "saudi arabia": "10",
+      "united arab emirates": "7",
+      "australia": "5"
     }
   },
   "zambia": {
     "eksport": {
-      "tot": "8",
-      "Switzerland ": "29",
-      " China ": "16",
-      " Namibia ": "12",
-      " Democratic Republic of the Congo ": "9",
-      " Singapore": "5"
+      "tot": "855",
+      "switzerland": "29",
+      "china": "16",
+      "namibia": "12",
+      "democratic republic of the congo": "9",
+      "singapore": "5"
     }
   },
   "zimbabwe": {
     "eksport": {
-      "tot": "4",
-      "United Arab Emirates ": "40",
-      " South Africa ": "23",
-      " Mozambique": "9"
+      "tot": "4422",
+      "united arab emirates": "40",
+      "south africa": "23",
+      "mozambique": "9"
     }
   }
 }
