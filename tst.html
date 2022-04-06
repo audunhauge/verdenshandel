@@ -23,8 +23,12 @@
     <div class="kontinet" id="oseania">.</div>
 </div>
 
-<button id="btn">Get Selected Countries</button>
-<div id="listeDiv"></div>
+
+<div id="listeDiv">
+   
+    <button id="btn">Get Selected Countries</button>
+    <h3>Velg land:</h3>
+</div>
 
 
 
@@ -72,6 +76,8 @@
 
             const listenDiv = document.getElementById("listeDiv");
             for (let i = 0; i < countries.length; i++) {
+                linebreak = document.createElement("br");
+                listenDiv.appendChild(linebreak);
                 let verdi = countries[i];
                 var txt = verdi;
                 var name = 'checkbox';
@@ -87,8 +93,7 @@
                 label.setAttribute('for', id);
                 label.innerHTML = txt;
                 listenDiv.appendChild(label);
-                linebreak = document.createElement("br");
-                listenDiv.appendChild(linebreak);
+              
             }
         }
 
