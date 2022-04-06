@@ -5,20 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Verdenskart</title>
-    <link rel="stylesheet" href="verdenskart.css">
+    <link rel="stylesheet" href="opsum.css">
 </head>
+<div id="main">
 
-<img id="img" src="verdenskartsvart.jpg" alt="verdenskart" usemap="#verdenskart"/>
+    <img id="img" src="verdenskartsvart.jpg" alt="verdenskart" usemap="#verdenskart"/>
 
-<button id="btn">Get Selected Countries</button>
+
 
     
- <div class="kontinet" id="asia">.</div>
- <div class="kontinet" id="afrika">.</div>
- <div class="kontinet" id="europa">.</div>
- <div class="kontinet" id="NA">.</div>
- <div class="kontinet" id="SA">.</div>
- <div class="kontinet" id="oseania">.</div>
+    <div class="kontinet" id="asia">.</div>
+    <div class="kontinet" id="afrika">.</div>
+    <div class="kontinet" id="europa">.</div>
+    <div class="kontinet" id="NA">.</div>
+    <div class="kontinet" id="SA">.</div>
+    <div class="kontinet" id="oseania">.</div>
+</div>
+
+    <button id="btn">Get Selected Countries</button>
+
+
+
 
 <script>
 Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", lagLandListe));
@@ -60,7 +67,7 @@ function lagLandListe(event) {
                 plass.appendChild(newDiv)
             }
 
-
+const listenDiv = document.getElementById("listen");
             for (let i = 0; i < countries.length; i++) {
                 let verdi = countries[i];
                 var txt = verdi;
@@ -89,19 +96,11 @@ function lagLandListe(event) {
             checkboxes.forEach((checkbox) => {
                 values.push(checkbox.id);
             });
-            console.log(values)
+           // console.log(values)
         });
     }
 </script>
 
-
-<img src="verdenskartsvart.jpg" width="145" height="126" alt="Planets" usemap="#planetmap"/>
-
-<map name="planetmap">
-    <area class="yellow" shape="rect" coords="0,0,82,126" href="" />
-    <area shape="circle" coords="90,58,3" href="" />
-    <area shape="circle" coords="124,58,8" href="" />
-</map>
 
 </div>
 </body>
