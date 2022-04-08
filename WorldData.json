@@ -133,7 +133,7 @@
   "barbados": {
     "eksport": {
       "tot": "4854",
-      "us": "21",
+      "united_states": "21",
       "poland": "14",
       "jamaica": "8",
       "guyana": "6",
@@ -185,7 +185,7 @@
       "tot": "159",
       "jamaica": "49",
       "luxembourg": "36",
-      "us": "4"
+      "united_states": "4"
     }
   },
   "bhutan": {
@@ -291,7 +291,7 @@
   "canada": {
     "eksport": {
       "tot": "47731",
-      "us": "73"
+      "united_states": "73"
     }
   },
   "central_african_republic": {
@@ -534,7 +534,7 @@
       "tot": "2235",
       "france": "27",
       "south_korea": "12",
-      "us": "10",
+      "united_states": "10",
       "china": "7",
       "nz": "6",
       "singapore": "4"
@@ -712,7 +712,7 @@
       "united_states": "28",
       "belgium": "10",
       "germany": "10",
-      "uk": "9",
+      "united_kingdom": "9",
       "china": "5",
       "netherlands": "5"
     }
