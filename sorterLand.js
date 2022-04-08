@@ -6,7 +6,7 @@
 const tegnMedLand = async landListe => {
 
     const { floor, random } = Math;
-    const url = "world.json";
+    const url = "WorldData.json";
     const response = await fetch(url);
     const data = await response.json();
 
@@ -15,28 +15,33 @@ const tegnMedLand = async landListe => {
     initData.links = [];
 
     for (const land of landListe) {
-
-        const exp = data[land].eksport;
-        const tot = exp.tot;
-        const partnere = Object.keys(exp);
-        for (const part of partnere) {
-            if (!landListe.includes(part)) continue;
-            if (part !== "tot") {
-                const prosent = exp[part] / 100;
-                if (!initData.nodes.find(n => n.id === part)) {
-                    initData.nodes.push({ id: part });
-                }
-                initData.links.push(
-                    {
-                        source: land, target: part,
-                        value: 0.1 * prosent * tot,
-                        curvature: 0.1 + random() * 0.8,
-                        rotation: Math.PI * random()
+        try{
+            const exp = data[land].eksport;
+            const tot = exp.tot;
+            const partnere = Object.keys(exp);
+            for (const part of partnere) {
+                if(part === "tot") continue;
+                if (!landListe.includes(part)) continue;
+    
+                if (part !== "tot") {
+                    const prosent = exp[part] / 100;
+                    if (!initData.nodes.find(n => n.id === part)) {
+                        initData.nodes.push({ id: part });
                     }
-                );
+                    initData.links.push(
+                        {
+                            source: land, target: part,
+                            value: 0.1 * prosent * tot,
+                            curvature: 0.1 + random() * 0.8,
+                            rotation: Math.PI * random()
+                        }
+                    );
+                }
             }
         }
+        catch(err) {}
     }
+    console.log(initData);
 
     const Graph = ForceGraph3D()
         (document.getElementById('disp'))
@@ -65,4 +70,4 @@ const tegnMedLand = async landListe => {
     return "Lag en graf ut i fra disse landene: " + landListe.join(", ");
 }
 
-tegnMedLand("poland,usa,norway,uk,sweden,china".split(",")).then(res => console.log(res));
+tegnMedLand("norway,united_states,australia,newZeland,sweden,poland,belarus,ukraine,france,south_africa,united_arab_emirates,russia".split(",")).then(res => console.log(res));

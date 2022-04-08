@@ -57,13 +57,13 @@ const alleLandData = {};
             */
             text.split(",").forEach(e => {
                 const p = e.match(/(\d+)/gm)[0];
-                const l = e.replace(/(\d+)/g, "").replace("%", "").replace(" : ", ": ").replace("  ()", "").replace(". ()", "").toLowerCase();
+                const l = e.replace(/(\d+)/g, "").replace("%", "").replace(" : ", ": ").replace("  ()", "").replace(". ()", "").toLowerCase().replaceAll(" ", "_");
                 eksport[l] = p
 
             })
             // Dytter landet inn i alleLandData objektet
-            alleLandData[land] = {};
-            alleLandData[land]["eksport"] = eksport;
+            alleLandData[land.replaceAll(" ", "_")] = {};
+            alleLandData[land.replaceAll(" ", "_")]["eksport"] = eksport;
         }
         catch(e){ 
             // Noen land finnes ikke på cia sine sider. 

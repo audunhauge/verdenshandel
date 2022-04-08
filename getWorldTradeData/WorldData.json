@@ -2,7 +2,7 @@
   "afghanistan": {
     "eksport": {
       "tot": "148",
-      "united arab emirates": "45",
+      "united_arab_emirates": "45",
       "pakistan": "24",
       "india": "22",
       "china": "1"
@@ -25,21 +25,21 @@
       "italy": "13",
       "france": "13",
       "spain": "12",
-      "united states": "7",
-      "united kingdom": "7",
+      "united_states": "7",
+      "united_kingdom": "7",
       "india": "5",
-      "south korea": "5"
+      "south_korea": "5"
     }
   },
-  "american samoa": {
+  "american_samoa": {
     "eksport": {
       "tot": "615",
-      "fiji .": "10",
-      "singapore .": "10",
-      "nz .": "10",
-      "south korea .": "9",
-      "samoa .": "8",
-      "kenya .": "6",
+      "fiji": "10",
+      "singapore": "10",
+      "nz": "10",
+      "south_korea": "9",
+      "samoa": "8",
+      "kenya": "6",
       "australia": "5"
     }
   },
@@ -48,15 +48,15 @@
       "tot": "21",
       "china": "62",
       "india": "10",
-      "united arab emirates": "4",
+      "united_arab_emirates": "4",
       "portugal": "3",
       "spain": "3"
     }
   },
-  "antigua and barbuda": {
+  "antigua_and_barbuda": {
     "eksport": {
       "tot": "112",
-      "united states": "39",
+      "united_states": "39",
       "poland": "16",
       "china": "7"
     }
@@ -66,7 +66,7 @@
       "tot": "6418",
       "brazil": "16",
       "china": "11",
-      "united states": "7",
+      "united_states": "7",
       "chile": "5"
     }
   },
@@ -88,7 +88,7 @@
       "tot": "29904",
       "china": "39",
       "japan": "15",
-      "south korea": "7",
+      "south_korea": "7",
       "india": "5"
     }
   },
@@ -96,7 +96,7 @@
     "eksport": {
       "tot": "22679",
       "germany": "28",
-      "united states": "7",
+      "united_states": "7",
       "italy": "6",
       "switzerland": "5"
     }
@@ -114,18 +114,18 @@
   "bahrain": {
     "eksport": {
       "tot": "301",
-      "united arab emirates": "31",
-      "saudi arabia": "12",
+      "united_arab_emirates": "31",
+      "saudi_arabia": "12",
       "japan": "8",
-      "united states": "8"
+      "united_states": "8"
     }
   },
   "bangladesh": {
     "eksport": {
       "tot": "3878",
-      "united states": "15",
+      "united_states": "15",
       "germany": "14",
-      "united kingdom": "8",
+      "united_kingdom": "8",
       "spain": "7",
       "france": "7"
     }
@@ -137,7 +137,7 @@
       "poland": "14",
       "jamaica": "8",
       "guyana": "6",
-      "trinidad and tobago": "6"
+      "trinidad_and_tobago": "6"
     }
   },
   "belarus": {
@@ -145,7 +145,7 @@
       "tot": "3704",
       "russia": "42",
       "ukraine": "13",
-      "united kingdom": "7"
+      "united_kingdom": "7"
     }
   },
   "belgium": {
@@ -154,16 +154,16 @@
       "germany": "17",
       "france": "14",
       "netherlands": "13",
-      "united kingdom": "8",
-      "united states": "6",
+      "united_kingdom": "8",
+      "united_states": "6",
       "italy": "5"
     }
   },
   "belize": {
     "eksport": {
       "tot": "710",
-      "united kingdom": "27",
-      "united states": "24",
+      "united_kingdom": "27",
+      "united_states": "24",
       "spain": "6",
       "jamaica": "5",
       "ireland": "5"
@@ -174,7 +174,7 @@
       "tot": "358",
       "nigeria": "25",
       "bangladesh": "14",
-      "united arab emirates": "14",
+      "united_arab_emirates": "14",
       "india": "13",
       "china": "8",
       "vietnam": "5"
@@ -183,9 +183,9 @@
   "bermuda": {
     "eksport": {
       "tot": "159",
-      "jamaica .": "49",
-      "luxembourg .": "36",
-      "united states": "4"
+      "jamaica": "49",
+      "luxembourg": "36",
+      "us": "4"
     }
   },
   "bhutan": {
@@ -199,15 +199,15 @@
       "tot": "755",
       "argentina": "16",
       "brazil": "15",
-      "united arab emirates": "12",
+      "united_arab_emirates": "12",
       "india": "10",
-      "united states": "6",
-      "south korea": "5",
+      "united_states": "6",
+      "south_korea": "5",
       "peru": "5",
       "colombia": "5"
     }
   },
-  "bosnia and herzegovina": {
+  "bosnia_and_herzegovina": {
     "eksport": {
       "tot": "681",
       "germany": "14",
@@ -223,10 +223,10 @@
       "tot": "616",
       "india": "21",
       "belgium": "19",
-      "united arab emirates": "19",
-      "south africa": "9",
+      "united_arab_emirates": "19",
+      "south_africa": "9",
       "israel": "7",
-      "hong kong": "6",
+      "hong_kong": "6",
       "singapore": "5"
     }
   },
@@ -234,7 +234,7 @@
     "eksport": {
       "tot": "23918",
       "china": "28",
-      "united states": "13"
+      "united_states": "13"
     }
   },
   "bulgaria": {
@@ -247,7 +247,7 @@
       "greece": "6"
     }
   },
-  "burkina faso": {
+  "burkina_faso": {
     "eksport": {
       "tot": "447",
       "switzerland": "59",
@@ -257,21 +257,21 @@
   "burundi": {
     "eksport": {
       "tot": "290",
-      "united arab emirates": "50",
-      "democratic republic of the congo": "7"
+      "united_arab_emirates": "50",
+      "democratic_republic_of_the_congo": "7"
     }
   },
   "cambodia": {
     "eksport": {
       "tot": "194",
-      "united states": "21",
+      "united_states": "21",
       "singapore": "8",
       "thailand": "8",
       "germany": "7",
       "japan": "6",
       "china": "5",
       "canada": "5",
-      "united kingdom": "5"
+      "united_kingdom": "5"
     }
   },
   "cameroon": {
@@ -280,9 +280,9 @@
       "china": "17",
       "netherlands": "14",
       "italy": "9",
-      "united arab emirates": "8",
+      "united_arab_emirates": "8",
       "india": "7",
-      "united states": "6",
+      "united_states": "6",
       "belgium": "6",
       "spain": "5",
       "france": "5"
@@ -294,13 +294,19 @@
       "us": "73"
     }
   },
+  "central_african_republic": {
+    "eksport": {
+      "tot": "3931",
+      "$._million_(_est.)": "393"
+    }
+  },
   "chad": {
     "eksport": {
       "tot": "2464",
       "china": "32",
-      "united arab emirates": "21",
+      "united_arab_emirates": "21",
       "india": "19",
-      "united states": "10",
+      "united_states": "10",
       "france": "6",
       "germany": "5"
     }
@@ -309,23 +315,23 @@
     "eksport": {
       "tot": "798",
       "china": "32",
-      "united states": "14",
+      "united_states": "14",
       "japan": "9",
-      "south korea": "7"
+      "south_korea": "7"
     }
   },
   "china": {
     "eksport": {
       "tot": "2732370000000",
-      "united states": "17",
-      "hong kong": "10",
+      "united_states": "17",
+      "hong_kong": "10",
       "japan": "6"
     }
   },
   "colombia": {
     "eksport": {
       "tot": "3914",
-      "united states": "31",
+      "united_states": "31",
       "china": "11",
       "panama": "6",
       "ecuador": "5"
@@ -341,10 +347,10 @@
       "madagascar": "7"
     }
   },
-  "costa rica": {
+  "costa_rica": {
     "eksport": {
       "tot": "212",
-      "united states": "38",
+      "united_states": "38",
       "netherlands": "6",
       "belgium": "5",
       "guatemala": "5",
@@ -357,7 +363,7 @@
       "italy": "13",
       "germany": "13",
       "slovenia": "10",
-      "bosnia and herzegovina": "9",
+      "bosnia_and_herzegovina": "9",
       "austria": "6",
       "serbia": "5"
     }
@@ -368,16 +374,16 @@
       "india": "9",
       "greece": "9",
       "libya": "8",
-      "united kingdom": "7"
+      "united_kingdom": "7"
     }
   },
   "denmark": {
     "eksport": {
       "tot": "19153",
       "germany": "14",
-      "united states": "11",
+      "united_states": "11",
       "sweden": "10",
-      "united kingdom": "7",
+      "united_kingdom": "7",
       "norway": "6",
       "netherlands": "5",
       "china": "5"
@@ -386,26 +392,26 @@
   "djibouti": {
     "eksport": {
       "tot": "515",
-      "saudi arabia": "42",
+      "saudi_arabia": "42",
       "india": "15",
       "china": "14",
       "egypt": "5",
-      "south korea": "5"
+      "south_korea": "5"
     }
   },
   "dominica": {
     "eksport": {
       "tot": "430",
-      "united states": "57",
+      "united_states": "57",
       "nigeria": "11",
       "china": "6",
       "italy": "5"
     }
   },
-  "dominican republic": {
+  "dominican_republic": {
     "eksport": {
       "tot": "1444",
-      "united states": "54",
+      "united_states": "54",
       "switzerland": "8",
       "canada": "5",
       "india": "5",
@@ -415,7 +421,7 @@
   "ecuador": {
     "eksport": {
       "tot": "2223",
-      "united states": "30",
+      "united_states": "30",
       "china": "13",
       "panama": "8",
       "chile": "7"
@@ -424,42 +430,42 @@
   "egypt": {
     "eksport": {
       "tot": "401",
-      "united states": "9",
-      "united arab emirates": "6",
+      "united_states": "9",
+      "united_arab_emirates": "6",
       "italy": "6",
       "turkey": "6",
-      "saudi arabia": "6",
+      "saudi_arabia": "6",
       "india": "5"
     }
   },
-  "el salvador": {
+  "el_salvador": {
     "eksport": {
       "tot": "629",
-      "united states": "40",
+      "united_states": "40",
       "guatemala": "15",
       "honduras": "15",
       "nicaragua": "6"
     }
   },
-  "equatorial guinea": {
+  "equatorial_guinea": {
     "eksport": {
       "tot": "6245",
-      "united states": "22",
+      "united_states": "22",
       "spain": "19",
       "china": "12",
-      "united kingdom": "6",
-      "united arab emirates": "5"
+      "united_kingdom": "6",
+      "united_arab_emirates": "5"
     }
   },
   "eritrea": {
     "eksport": {
       "tot": "1127",
-      "uae .": "14",
-      "china .": "13",
-      "saudi arabia .": "13",
-      "italy .": "12",
-      "turkey .": "5",
-      "south africa": "4"
+      "united_arab_emirates": "14",
+      "china": "13",
+      "saudi_arabia": "13",
+      "italy": "12",
+      "turkey": "5",
+      "south_africa": "4"
     }
   },
   "estonia": {
@@ -469,7 +475,7 @@
       "sweden": "9",
       "latvia": "8",
       "russia": "8",
-      "united states": "7",
+      "united_states": "7",
       "lithuania": "6",
       "germany": "6"
     }
@@ -478,19 +484,25 @@
     "eksport": {
       "tot": "762",
       "china": "17",
-      "united states": "16",
-      "united arab emirates": "8",
-      "saudi arabia": "6",
-      "south korea": "5",
+      "united_states": "16",
+      "united_arab_emirates": "8",
+      "saudi_arabia": "6",
+      "south_korea": "5",
       "germany": "5"
+    }
+  },
+  "faroe_islands": {
+    "eksport": {
+      "tot": "9784",
+      "$._million_(_est.)": "978"
     }
   },
   "fiji": {
     "eksport": {
       "tot": "123",
-      "united states": "29",
+      "united_states": "29",
       "australia": "14",
-      "new zealand": "7",
+      "new_zealand": "7",
       "japan": "6",
       "tonga": "6"
     }
@@ -500,7 +512,7 @@
       "tot": "10822",
       "germany": "14",
       "sweden": "10",
-      "united states": "8",
+      "united_states": "8",
       "netherlands": "6",
       "china": "6",
       "russia": "5"
@@ -510,19 +522,19 @@
     "eksport": {
       "tot": "74691",
       "germany": "14",
-      "united states": "8",
+      "united_states": "8",
       "italy": "7",
       "spain": "7",
       "belgium": "7",
-      "united kingdom": "7"
+      "united_kingdom": "7"
     }
   },
-  "french polynesia": {
+  "french_polynesia": {
     "eksport": {
       "tot": "2235",
       "france": "27",
-      "south korea": "12",
-      "united states": "10",
+      "south_korea": "12",
+      "us": "10",
       "china": "7",
       "nz": "6",
       "singapore": "4"
@@ -550,11 +562,11 @@
   "germany": {
     "eksport": {
       "tot": "1671650000000",
-      "united states": "9",
+      "united_states": "9",
       "france": "8",
       "china": "7",
       "netherlands": "6",
-      "united kingdom": "6",
+      "united_kingdom": "6",
       "italy": "5",
       "poland": "5",
       "austria": "5"
@@ -566,8 +578,8 @@
       "switzerland": "23",
       "india": "17",
       "china": "12",
-      "united arab emirates": "8",
-      "south africa": "8"
+      "united_arab_emirates": "8",
+      "south_africa": "8"
     }
   },
   "greece": {
@@ -580,21 +592,27 @@
       "bulgaria": "5"
     }
   },
+  "greenland": {
+    "eksport": {
+      "tot": "7835",
+      "$._million_(_est.)": "783"
+    }
+  },
   "guam": {
     "eksport": {
       "tot": "2964",
       "singapore": "33",
       "japan": "21",
-      "south korea": "18",
-      "hong kong": "9",
+      "south_korea": "18",
+      "hong_kong": "9",
       "malaysia": "6"
     }
   },
   "guatemala": {
     "eksport": {
       "tot": "1312",
-      "united states": "33",
-      "el salvador": "12",
+      "united_states": "33",
+      "el_salvador": "12",
       "honduras": "8",
       "mexico": "5",
       "nicaragua": "5"
@@ -603,7 +621,7 @@
   "guinea": {
     "eksport": {
       "tot": "404",
-      "united arab emirates": "39",
+      "united_arab_emirates": "39",
       "china": "36",
       "india": "6"
     }
@@ -611,30 +629,30 @@
   "guyana": {
     "eksport": {
       "tot": "18",
-      "trinidad and tobago": "31",
+      "trinidad_and_tobago": "31",
       "canada": "11",
       "portugal": "11",
       "ghana": "8",
       "norway": "6",
-      "united arab emirates": "5"
+      "united_arab_emirates": "5"
     }
   },
   "honduras": {
     "eksport": {
       "tot": "716",
-      "united states": "53",
-      "el salvador": "8",
+      "united_states": "53",
+      "el_salvador": "8",
       "guatemala": "5",
       "nicaragua": "5"
     }
   },
-  "hong kong": {
+  "hong_kong": {
     "eksport": {
       "tot": "61588",
       "china": "23",
       "india": "14",
       "netherlands": "6",
-      "united kingdom": "5"
+      "united_kingdom": "5"
     }
   },
   "hungary": {
@@ -650,10 +668,10 @@
     "eksport": {
       "tot": "743",
       "netherlands": "23",
-      "united kingdom": "9",
+      "united_kingdom": "9",
       "germany": "9",
       "spain": "8",
-      "united states": "7",
+      "united_states": "7",
       "france": "7",
       "canada": "5"
     }
@@ -661,8 +679,8 @@
   "india": {
     "eksport": {
       "tot": "48495",
-      "united states": "17",
-      "united arab emirates": "9",
+      "united_states": "17",
+      "united_arab_emirates": "9",
       "china": "5"
     }
   },
@@ -670,7 +688,7 @@
     "eksport": {
       "tot": "17826",
       "china": "15",
-      "united states": "10",
+      "united_states": "10",
       "japan": "9",
       "singapore": "8",
       "india": "7",
@@ -682,8 +700,8 @@
       "tot": "5061",
       "china": "26",
       "india": "24",
-      "south korea": "9",
-      "united states": "8",
+      "south_korea": "9",
+      "united_states": "8",
       "italy": "6",
       "greece": "6"
     }
@@ -691,7 +709,7 @@
   "ireland": {
     "eksport": {
       "tot": "50231",
-      "united states": "28",
+      "united_states": "28",
       "belgium": "10",
       "germany": "10",
       "uk": "9",
@@ -702,9 +720,9 @@
   "israel": {
     "eksport": {
       "tot": "11387",
-      "united states": "26",
+      "united_states": "26",
       "china": "9",
-      "united kingdom": "7"
+      "united_kingdom": "7"
     }
   },
   "italy": {
@@ -712,8 +730,8 @@
       "tot": "55826",
       "germany": "12",
       "france": "11",
-      "united states": "10",
-      "united kingdom": "5",
+      "united_states": "10",
+      "united_kingdom": "5",
       "spain": "5",
       "switzerland": "5"
     }
@@ -721,7 +739,7 @@
   "jamaica": {
     "eksport": {
       "tot": "592",
-      "united states": "32",
+      "united_states": "32",
       "netherlands": "11",
       "germany": "9",
       "canada": "7",
@@ -731,20 +749,20 @@
   "japan": {
     "eksport": {
       "tot": "79332",
-      "united states": "19",
+      "united_states": "19",
       "china": "18",
-      "south korea": "6",
+      "south_korea": "6",
       "taiwan": "6"
     }
   },
   "jordan": {
     "eksport": {
       "tot": "1629",
-      "united states": "21",
-      "saudi arabia": "13",
+      "united_states": "21",
+      "saudi_arabia": "13",
       "india": "8",
       "iraq": "7",
-      "united arab emirates": "5",
+      "united_arab_emirates": "5",
       "china": "5"
     }
   },
@@ -756,18 +774,18 @@
       "russia": "10",
       "netherlands": "7",
       "france": "6",
-      "south korea": "5"
+      "south_korea": "5"
     }
   },
   "kenya": {
     "eksport": {
       "tot": "1149",
       "uganda": "10",
-      "united states": "9",
+      "united_states": "9",
       "netherlands": "8",
       "pakistan": "7",
-      "united kingdom": "6",
-      "united arab emirates": "6",
+      "united_kingdom": "6",
+      "united_arab_emirates": "6",
       "tanzania": "5"
     }
   },
@@ -778,8 +796,8 @@
       "fiji": "19",
       "australia": "12",
       "taiwan": "11",
-      "south korea": "11",
-      "new zealand": "7",
+      "south_korea": "11",
+      "new_zealand": "7",
       "japan": "5"
     }
   },
@@ -787,7 +805,7 @@
     "eksport": {
       "tot": "7283",
       "china": "20",
-      "south korea": "16",
+      "south_korea": "16",
       "india": "15",
       "japan": "10",
       "taiwan": "6",
@@ -797,7 +815,7 @@
   "kyrgyzstan": {
     "eksport": {
       "tot": "311",
-      "united kingdom": "56",
+      "united_kingdom": "56",
       "kazakhstan": "13",
       "russia": "13",
       "uzbekistan": "5"
@@ -811,25 +829,25 @@
       "russia": "9",
       "germany": "7",
       "sweden": "6",
-      "united kingdom": "6"
+      "united_kingdom": "6"
     }
   },
   "lebanon": {
     "eksport": {
       "tot": "1817",
       "switzerland": "27",
-      "united arab emirates": "15",
-      "south korea": "11",
-      "saudi arabia": "7",
+      "united_arab_emirates": "15",
+      "south_korea": "11",
+      "saudi_arabia": "7",
       "kuwait": "6"
     }
   },
   "lesotho": {
     "eksport": {
       "tot": "900",
-      "united states": "29",
+      "united_states": "29",
       "belgium": "26",
-      "south africa": "25",
+      "south_africa": "25",
       "switzerland": "6"
     }
   },
@@ -867,12 +885,12 @@
     "eksport": {
       "tot": "116",
       "belgium": "16",
-      "united states": "8",
+      "united_states": "8",
       "egypt": "7",
-      "south africa": "6",
+      "south_africa": "6",
       "germany": "6",
       "kenya": "5",
-      "united arab emirates": "5"
+      "united_arab_emirates": "5"
     }
   },
   "malaysia": {
@@ -880,8 +898,8 @@
       "tot": "20737",
       "singapore": "13",
       "china": "13",
-      "united states": "11",
-      "hong kong": "6",
+      "united_states": "11",
+      "hong_kong": "6",
       "japan": "6",
       "thailand": "5"
     }
@@ -890,18 +908,18 @@
     "eksport": {
       "tot": "372",
       "thailand": "24",
-      "united states": "13",
+      "united_states": "13",
       "china": "12",
       "france": "11",
       "germany": "11",
       "italy": "5",
-      "united kingdom": "5"
+      "united_kingdom": "5"
     }
   },
   "mali": {
     "eksport": {
       "tot": "418",
-      "united arab emirates": "66",
+      "united_arab_emirates": "66",
       "switzerland": "26"
     }
   },
@@ -927,9 +945,9 @@
     "eksport": {
       "tot": "517",
       "france": "10",
-      "south africa": "10",
-      "united states": "10",
-      "united kingdom": "8",
+      "south_africa": "10",
+      "united_states": "10",
+      "united_kingdom": "8",
       "zambia": "7",
       "madagascar": "6"
     }
@@ -937,7 +955,7 @@
   "mexico": {
     "eksport": {
       "tot": "43493",
-      "united states": "75"
+      "united_states": "75"
     }
   },
   "mongolia": {
@@ -957,11 +975,11 @@
   "mozambique": {
     "eksport": {
       "tot": "435",
-      "south africa": "16",
+      "south_africa": "16",
       "india": "13",
       "china": "12",
       "italy": "7",
-      "united arab emirates": "5",
+      "united_arab_emirates": "5",
       "germany": "5"
     }
   },
@@ -969,7 +987,7 @@
     "eksport": {
       "tot": "356",
       "china": "27",
-      "south africa": "18",
+      "south_africa": "18",
       "botswana": "8",
       "belgium": "7"
     }
@@ -978,7 +996,7 @@
     "eksport": {
       "tot": "179",
       "india": "68",
-      "united states": "10"
+      "united_states": "10"
     }
   },
   "netherlands": {
@@ -986,32 +1004,32 @@
       "tot": "71978",
       "germany": "20",
       "belgium": "12",
-      "united kingdom": "9",
+      "united_kingdom": "9",
       "france": "7",
-      "united states": "5"
+      "united_states": "5"
     }
   },
-  "new zealand": {
+  "new_zealand": {
     "eksport": {
       "tot": "5043",
       "china": "28",
       "australia": "14",
-      "united states": "9",
+      "united_states": "9",
       "japan": "6"
     }
   },
   "nicaragua": {
     "eksport": {
       "tot": "534",
-      "united states": "60",
-      "el salvador": "5",
+      "united_states": "60",
+      "el_salvador": "5",
       "mexico": "5"
     }
   },
   "niger": {
     "eksport": {
       "tot": "139",
-      "united arab emirates": "54",
+      "united_arab_emirates": "54",
       "china": "25",
       "france": "7",
       "pakistan": "5"
@@ -1022,29 +1040,29 @@
       "tot": "3994",
       "india": "16",
       "spain": "10",
-      "united states": "7",
+      "united_states": "7",
       "france": "7",
       "netherlands": "6"
     }
   },
-  "northern mariana islands": {
+  "northern_mariana_islands": {
     "eksport": {
       "tot": "893",
-      "hong kong": "29",
+      "hong_kong": "29",
       "japan": "29",
       "singapore": "16",
-      "south korea": "9"
+      "south_korea": "9"
     }
   },
   "norway": {
     "eksport": {
       "tot": "11706",
-      "united kingdom": "18",
+      "united_kingdom": "18",
       "germany": "14",
       "netherlands": "10",
       "sweden": "9",
       "france": "6",
-      "united states": "5"
+      "united_states": "5"
     }
   },
   "oman": {
@@ -1053,18 +1071,18 @@
       "china": "46",
       "india": "8",
       "japan": "6",
-      "south korea": "6",
-      "united arab emirates": "6",
-      "saudi arabia": "5"
+      "south_korea": "6",
+      "united_arab_emirates": "6",
+      "saudi_arabia": "5"
     }
   },
   "pakistan": {
     "eksport": {
       "tot": "273",
-      "united states": "14",
+      "united_states": "14",
       "china": "8",
       "germany": "7",
-      "united kingdom": "6"
+      "united_kingdom": "6"
     }
   },
   "panama": {
@@ -1073,11 +1091,11 @@
       "ecuador": "20",
       "guatemala": "14",
       "china": "8",
-      "united states": "6",
+      "united_states": "6",
       "netherlands": "6"
     }
   },
-  "papua new guinea": {
+  "papua_new_guinea": {
     "eksport": {
       "tot": "106",
       "australia": "26",
@@ -1099,9 +1117,9 @@
     "eksport": {
       "tot": "5488",
       "china": "29",
-      "united states": "12",
+      "united_states": "12",
       "canada": "5",
-      "south korea": "5",
+      "south_korea": "5",
       "switzerland": "5"
     }
   },
@@ -1109,9 +1127,9 @@
     "eksport": {
       "tot": "7882",
       "china": "16",
-      "united states": "15",
+      "united_states": "15",
       "japan": "13",
-      "hong kong": "12",
+      "hong_kong": "12",
       "singapore": "7",
       "germany": "5"
     }
@@ -1121,7 +1139,7 @@
       "tot": "33354",
       "germany": "27",
       "czechia": "6",
-      "united kingdom": "6",
+      "united_kingdom": "6",
       "france": "6",
       "italy": "5"
     }
@@ -1132,11 +1150,11 @@
       "spain": "23",
       "france": "13",
       "germany": "12",
-      "united kingdom": "6",
-      "united states": "5"
+      "united_kingdom": "6",
+      "united_states": "5"
     }
   },
-  "puerto rico": {
+  "puerto_rico": {
     "eksport": {
       "tot": "7317",
       "italy": "15",
@@ -1153,7 +1171,7 @@
     "eksport": {
       "tot": "7093",
       "japan": "17",
-      "south korea": "16",
+      "south_korea": "16",
       "india": "14",
       "china": "13",
       "singapore": "7"
@@ -1167,30 +1185,39 @@
       "france": "7"
     }
   },
+  "russia": {
+    "eksport": {
+      "tot": "37912",
+      "china": "14",
+      "netherlands": "10",
+      "belarus": "5",
+      "germany": "5"
+    }
+  },
   "rwanda": {
     "eksport": {
       "tot": "225",
-      "united arab emirates": "35",
-      "democratic republic of the congo": "28",
+      "united_arab_emirates": "35",
+      "democratic_republic_of_the_congo": "28",
       "uganda": "5"
     }
   },
-  "saint kitts and nevis": {
+  "saint_kitts_and_nevis": {
     "eksport": {
       "tot": "590",
-      "united states": "59",
+      "united_states": "59",
       "peru": "6",
       "germany": "5"
     }
   },
-  "saint lucia": {
+  "saint_lucia": {
     "eksport": {
       "tot": "122",
-      "united states": "29",
+      "united_states": "29",
       "uruguay": "16",
       "barbados": "8",
-      "trinidad and tobago .": "5",
-      "united kingdom": "6",
+      "trinidad_and_tobago": "5",
+      "united_kingdom": "6",
       "dominica": "6",
       "guyana": "5",
       "france": "5"
@@ -1199,20 +1226,20 @@
   "samoa": {
     "eksport": {
       "tot": "310",
-      "american samoa": "21",
-      "united states": "13",
-      "new zealand": "12",
+      "american_samoa": "21",
+      "united_states": "13",
+      "new_zealand": "12",
       "australia": "10",
       "tokelau": "6",
       "taiwan": "5"
     }
   },
-  "san marino": {
+  "san_marino": {
     "eksport": {
       "tot": "3827",
       "romania": "10",
       "france": "9",
-      "united states": "8",
+      "united_states": "8",
       "germany": "8",
       "poland": "6",
       "brazil": "6",
@@ -1220,7 +1247,7 @@
       "austria": "6"
     }
   },
-  "sao tome and principe": {
+  "sao_tome_and_principe": {
     "eksport": {
       "tot": "50",
       "singapore": "30",
@@ -1228,17 +1255,17 @@
       "france": "11",
       "poland": "7",
       "belgium": "7",
-      "united states": "5"
+      "united_states": "5"
     }
   },
-  "saudi arabia": {
+  "saudi_arabia": {
     "eksport": {
       "tot": "18411",
       "china": "20",
       "india": "11",
       "japan": "11",
-      "south korea": "9",
-      "united states": "5"
+      "south_korea": "9",
+      "united_states": "5"
     }
   },
   "senegal": {
@@ -1253,22 +1280,22 @@
   "seychelles": {
     "eksport": {
       "tot": "109",
-      "united arab emirates": "17",
-      "united kingdom": "13",
+      "united_arab_emirates": "17",
+      "united_kingdom": "13",
       "france": "12",
-      "british virgin islands": "11",
+      "british_virgin_islands": "11",
       "zambia": "9",
       "mauritius": "5",
       "japan": "5"
     }
   },
-  "sierra leone": {
+  "sierra_leone": {
     "eksport": {
       "tot": "740",
       "belgium": "26",
       "china": "25",
       "romania": "9",
-      "united arab emirates": "6",
+      "united_arab_emirates": "6",
       "germany": "5",
       "netherlands": "5"
     }
@@ -1277,9 +1304,9 @@
     "eksport": {
       "tot": "5992",
       "china": "15",
-      "hong kong": "13",
+      "hong_kong": "13",
       "malaysia": "9",
-      "united states": "8",
+      "united_states": "8",
       "indonesia": "7",
       "india": "5"
     }
@@ -1293,7 +1320,7 @@
       "france": "7",
       "hungary": "6",
       "austria": "5",
-      "united kingdom": "5"
+      "united_kingdom": "5"
     }
   },
   "slovenia": {
@@ -1307,7 +1334,7 @@
       "switzerland": "5"
     }
   },
-  "solomon islands": {
+  "solomon_islands": {
     "eksport": {
       "tot": "430",
       "china": "65",
@@ -1318,19 +1345,19 @@
   "somalia": {
     "eksport": {
       "tot": "9443",
-      "united arab emirates": "32",
+      "united_arab_emirates": "32",
       "china": "20",
       "india": "17",
       "turkey": "7"
     }
   },
-  "south africa": {
+  "south_africa": {
     "eksport": {
       "tot": "9301",
       "china": "15",
-      "united kingdom": "8",
+      "united_kingdom": "8",
       "germany": "7",
-      "united states": "6",
+      "united_states": "6",
       "india": "6"
     }
   },
@@ -1341,25 +1368,25 @@
       "germany": "11",
       "portugal": "8",
       "italy": "8",
-      "united kingdom": "7",
-      "united states": "5"
+      "united_kingdom": "7",
+      "united_states": "5"
     }
   },
-  "sri lanka": {
+  "sri_lanka": {
     "eksport": {
       "tot": "1941",
-      "united states": "24",
+      "united_states": "24",
       "india": "8",
-      "united kingdom": "7",
+      "united_kingdom": "7",
       "germany": "7"
     }
   },
   "sudan": {
     "eksport": {
       "tot": "511",
-      "united arab emirates": "31",
+      "united_arab_emirates": "31",
       "china": "19",
-      "saudi arabia": "14",
+      "saudi_arabia": "14",
       "india": "12",
       "egypt": "5"
     }
@@ -1369,10 +1396,10 @@
       "tot": "24008",
       "germany": "10",
       "norway": "9",
-      "united states": "8",
+      "united_states": "8",
       "denmark": "7",
       "finland": "6",
-      "united kingdom": "5",
+      "united_kingdom": "5",
       "netherlands": "5",
       "china": "5"
     }
@@ -1381,8 +1408,8 @@
     "eksport": {
       "tot": "47091",
       "germany": "16",
-      "united states": "14",
-      "united kingdom": "8",
+      "united_states": "14",
+      "united_kingdom": "8",
       "china": "7",
       "france": "6",
       "india": "6",
@@ -1402,7 +1429,7 @@
   "thailand": {
     "eksport": {
       "tot": "25842",
-      "united states": "13",
+      "united_states": "13",
       "china": "12",
       "japan": "10",
       "vietnam": "5"
@@ -1422,7 +1449,7 @@
       "tot": "167",
       "india": "16",
       "benin": "15",
-      "burkina faso": "6",
+      "burkina_faso": "6",
       "france": "6",
       "morocco": "5"
     }
@@ -1430,18 +1457,18 @@
   "tonga": {
     "eksport": {
       "tot": "90",
-      "united states": "38",
-      "south korea": "18",
+      "united_states": "38",
+      "south_korea": "18",
       "australia": "14",
-      "new zealand": "14",
+      "new_zealand": "14",
       "japan": "6",
-      "  ()": "2019"
+      " _()": "2019"
     }
   },
-  "trinidad and tobago": {
+  "trinidad_and_tobago": {
     "eksport": {
       "tot": "957",
-      "united states": "33",
+      "united_states": "33",
       "guyana": "9",
       "spain": "6",
       "china": "6"
@@ -1459,10 +1486,10 @@
     "eksport": {
       "tot": "20329",
       "germany": "9",
-      "united kingdom": "6",
+      "united_kingdom": "6",
       "iraq": "5",
       "italy": "5",
-      "united states": "5"
+      "united_states": "5"
     }
   },
   "tuvalu": {
@@ -1475,7 +1502,7 @@
   "uganda": {
     "eksport": {
       "tot": "612",
-      "united arab emirates": "58",
+      "united_arab_emirates": "58",
       "kenya": "9"
     }
   },
@@ -1490,21 +1517,21 @@
       "turkey": "5"
     }
   },
-  "united arab emirates": {
+  "united_arab_emirates": {
     "eksport": {
       "tot": "3085",
       "india": "11",
       "japan": "10",
-      "saudi arabia": "7",
+      "saudi_arabia": "7",
       "switzerland": "6",
       "china": "6",
       "iraq": "6"
     }
   },
-  "united kingdom": {
+  "united_kingdom": {
     "eksport": {
       "tot": "74195",
-      "united states": "15",
+      "united_states": "15",
       "germany": "10",
       "china": "7",
       "netherlands": "7",
@@ -1512,7 +1539,7 @@
       "ireland": "6"
     }
   },
-  "united states": {
+  "united_states": {
     "eksport": {
       "tot": "2127250000000",
       "canada": "17",
@@ -1526,7 +1553,7 @@
       "tot": "1355",
       "china": "29",
       "brazil": "12",
-      "united states": "5",
+      "united_states": "5",
       "netherlands": "5",
       "argentina": "5"
     }
@@ -1535,7 +1562,7 @@
     "eksport": {
       "tot": "1452",
       "switzerland": "19",
-      "united kingdom": "17",
+      "united_kingdom": "17",
       "russia": "15",
       "china": "14",
       "kazakhstan": "9",
@@ -1549,7 +1576,7 @@
       "japan": "33",
       "thailand": "13",
       "mauritania": "13",
-      "south korea": "11",
+      "south_korea": "11",
       "china": "9",
       "fiji": "7"
     }
@@ -1559,16 +1586,16 @@
       "tot": "83401",
       "india": "34",
       "china": "28",
-      "united states": "12",
+      "united_states": "12",
       "spain": "6"
     }
   },
-  "wallis and futuna": {
+  "wallis_and_futuna": {
     "eksport": {
       "tot": "6117",
       "france": "43",
       "fiji": "24",
-      "new zealand": "11",
+      "new_zealand": "11",
       "australia": "6"
     }
   },
@@ -1576,8 +1603,8 @@
     "eksport": {
       "tot": "3845",
       "china": "53",
-      "saudi arabia": "10",
-      "united arab emirates": "7",
+      "saudi_arabia": "10",
+      "united_arab_emirates": "7",
       "australia": "5"
     }
   },
@@ -1587,15 +1614,15 @@
       "switzerland": "29",
       "china": "16",
       "namibia": "12",
-      "democratic republic of the congo": "9",
+      "democratic_republic_of_the_congo": "9",
       "singapore": "5"
     }
   },
   "zimbabwe": {
     "eksport": {
       "tot": "4422",
-      "united arab emirates": "40",
-      "south africa": "23",
+      "united_arab_emirates": "40",
+      "south_africa": "23",
       "mozambique": "9"
     }
   }
