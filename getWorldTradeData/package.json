@@ -1,0 +1,14 @@
+{
+  "name": "getworldtradedata",
+  "version": "1.0.0",
+  "description": "Henter alle eksport data fra alle land i verden",
+  "main": "getWorldData.js",
+  "scripts": {
+    "test": "node getWorldData.js"
+  },
+  "author": "Nathaniel Stensen",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "13.5.2"
+  }
+}

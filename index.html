@@ -34,11 +34,11 @@
 
         async function lesfil() {
             const { floor, random } = Math;
-            const url = "world.json";
+            const url = "WorldData.json";
             const response = await fetch(url);
             const data = await response.json();
 
-            const landListe = Object.keys(data);
+            const landListe = Object.keys(data).slice(1,25);
             const initData = {};
             initData.nodes = landListe.map(id => ({ id }));
             initData.links = [];
