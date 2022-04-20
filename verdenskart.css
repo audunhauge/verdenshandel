@@ -1,6 +1,6 @@
 #listeDiv{
     position: absolute;
-    top: 50px;
+    top: 75px;
     left: 50px;
 }
 
@@ -11,6 +11,18 @@
     
 }
 
+#listeLand h3 {
+    position: absolute;
+    left: 52px;
+    top: 33px;
+}
+
+div > button {
+position: absolute;
+left: 225px;
+top: 50px;
+}
+
 #main {
     position: absolute;
     left: 250px;
@@ -19,7 +31,6 @@
 
 #asia{
     position: absolute;
-    border: solid 1px black;
     right: -960px;
     top: 100px;
     width: 320px;
@@ -29,7 +40,6 @@
 
 #afrika{
     position: absolute;
-    border: solid 1px teal;
     width: 150px;
     left: 660px;
     top: 300px;
@@ -43,7 +53,6 @@
 
 #europa{
     position: absolute;
-    border: 1px solid rgb(223, 157, 167);
     width: 200px;
     left: 630px;
     height: 220px;
@@ -52,14 +61,12 @@
 }
 #NA{
     position: absolute;
-    border: solid 1px rebeccapurple;
     top: 100px;
     width: 400px;
     left: 220px;
     height: 300px;
 }
 #SA{position: absolute;
-    border: solid 1px salmon;
     top: 400px;
     width: 200px;
     left: 400px;
@@ -68,7 +75,6 @@
 }
 #oseania
 { position: relative;
-    border: solid 1px red;
     width: 200px;
     left: 921px;
     height: 300px;
