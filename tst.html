@@ -8,12 +8,10 @@
     <title>Verdenskart</title>
     <link rel="stylesheet" href="verdenskart.css">
 </head>
+
 <div id="main">
 
     <img id="img" src="verdenskartsvart.jpg" alt="verdenskart" usemap="#verdenskart" />
-
-
-
 
     <div class="kontinet" id="asia">.</div>
     <div class="kontinet" id="afrika">.</div>
@@ -23,27 +21,43 @@
     <div class="kontinet" id="oseania">.</div>
 </div>
 
+<div id="listeLand">
 
-<div id="listeDiv">
-   
     <button id="btn">Get Selected Countries</button>
     <h3>Velg land:</h3>
+    <div id="listeDiv"></div>
 </div>
 
 
 
-
 <script>
+
+    let values = [];
+    let removeCountry = [];
+
+    const listenDiv = document.getElementById("listeDiv");
     Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", lagLandListe));
-
+    let valgteKontinent = [];
     function lagLandListe(event) {
-        const kontinet = event.target.id;
 
+        const kontinet = event.target.id;
+        valgteKontinent.push(kontinet);
+
+
+        let checkboxes = document.querySelectorAll(`input[name="checkbox"]:checked`);
+        checkboxes.forEach((checkbox) => {
+            values.push(checkbox.id);
+        });
+
+        if (String(kontinet) !== String(valgteKontinent[valgteKontinent.length - 2]) && valgteKontinent.length > 1) {
+
+
+            listenDiv.innerHTML = ""
+        }
+        if (String(kontinet) === String(valgteKontinent[valgteKontinent.length - 2])) { return }
 
 
         (async () => {
-            console.log(kontinet)
-
             const lesText = await fetch('land.json');
             const text = await lesText.json();
             let Europa = (text.filter(land => land.continent === "Europe"));
@@ -74,7 +88,6 @@
             }
 
 
-            const listenDiv = document.getElementById("listeDiv");
             for (let i = 0; i < countries.length; i++) {
                 linebreak = document.createElement("br");
                 listenDiv.appendChild(linebreak);
@@ -82,8 +95,6 @@
                 var txt = verdi;
                 var name = 'checkbox';
                 var id = verdi;
-                // var row = document.createElement('div');
-                // document.body.appendChild(row);
                 var radioBut = document.createElement('input');
                 radioBut.setAttribute('type', 'checkbox');
                 radioBut.setAttribute('name', name);
@@ -93,22 +104,35 @@
                 label.setAttribute('for', id);
                 label.innerHTML = txt;
                 listenDiv.appendChild(label);
-              
+
+
+                for (let i = 0; i < removeCountry.length; i++) {
+                    if (radioBut.id === removeCountry[i]) { radioBut.checked = true }
+                }
+
             }
-        }
 
+            var selectori = document.querySelectorAll('input[name=checkbox]');
 
-        )()
-        let values = [];
-        const btn = document.querySelector('#btn');
-        btn.addEventListener('click', (event) => {
-            let checkboxes = document.querySelectorAll(`input[name="checkbox"]:checked`);
-            checkboxes.forEach((checkbox) => {
-                values.push(checkbox.id);
+            selectori.forEach((checkbox) => {
+                checkbox.addEventListener("change", function (event) {
+                    if (checkbox.checked) { removeCountry.push(checkbox.id); }
+                });
             });
-            console.log(values)
-        });
+        }
+        )
+            ()
     }
+    const btn = document.querySelector('#btn');
+
+    btn.addEventListener("click", (event) => {
+        let checkboxes = document.querySelectorAll(`input[name="checkbox"]:checked`);
+        checkboxes.forEach((checkbox) => {
+            values.push(checkbox.id);
+        });
+        console.log(removeCountry)
+
+    });
 </script>
 
 
