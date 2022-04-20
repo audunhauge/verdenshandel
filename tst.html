@@ -12,12 +12,10 @@
     <script src="//unpkg.com/3d-force-graph"></script>
     <script src="sorterLand.js"></script>
 </head>
+
 <div id="main">
 
     <img id="img" src="verdenskartsvart.jpg" alt="verdenskart" usemap="#verdenskart" />
-
-
-
 
     <div class="kontinet" id="asia">.</div>
     <div class="kontinet" id="afrika">.</div>
@@ -27,23 +25,44 @@
     <div class="kontinet" id="oseania">.</div>
 </div>
 
+<div id="listeLand">
 
-<div id="listeDiv">
-   
     <button id="btn">Get Selected Countries</button>
     <h3>Velg land:</h3>
 
     <div id="landPerKontinent"></div>
+    <div id="listeDiv"></div>
 </div>
-
 
 
 
 <script>
     Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", lagLandListe));
+
+    let values = [];
+    let removeCountry = [];
+
+    const listenDiv = document.getElementById("listeDiv");
+    Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", lagLandListe));
+    let valgteKontinent = [];
     function lagLandListe(event) {
+
         const kontinet = event.target.id;
         if(!kontinet) return;
+        valgteKontinent.push(kontinet);
+
+
+        let checkboxes = document.querySelectorAll(`input[name="checkbox"]:checked`);
+        checkboxes.forEach((checkbox) => {
+            values.push(checkbox.id);
+        });
+
+        if (String(kontinet) !== String(valgteKontinent[valgteKontinent.length - 2]) && valgteKontinent.length > 1) {
+
+
+            listenDiv.innerHTML = ""
+        }
+        if (String(kontinet) === String(valgteKontinent[valgteKontinent.length - 2])) { return }
 
 
         (async () => {
@@ -86,8 +105,6 @@
                 var txt = verdi;
                 var name = 'checkbox';
                 var id = verdi;
-                // var row = document.createElement('div');
-                // document.body.appendChild(row);
                 var radioBut = document.createElement('input');
                 radioBut.setAttribute('type', 'checkbox');
                 radioBut.setAttribute('name', name);
@@ -97,13 +114,17 @@
                 label.setAttribute('for', id);
                 label.innerHTML = txt;
                 listenDiv.appendChild(label);
-              
+
+
+                for (let i = 0; i < removeCountry.length; i++) {
+                    if (radioBut.id === removeCountry[i]) { radioBut.checked = true }
+                }
+
             }
         })()
     }
 
     const btn = document.querySelector('#btn');
-        let values = [];
         btn.addEventListener('click', async (event) => {
             let checkboxes = document.querySelectorAll(`input[name="checkbox"]:checked`);
             checkboxes.forEach((checkbox) => {
@@ -111,7 +132,15 @@
             });
             // console.log(values);
             await tegnMedLand(values);
-    });
+
+            var selectori = document.querySelectorAll('input[name=checkbox]');
+
+            selectori.forEach((checkbox) => {
+                checkbox.addEventListener("change", function (event) {
+                    if (checkbox.checked) { removeCountry.push(checkbox.id); }
+                });
+            });
+        })
 </script>
 
 
