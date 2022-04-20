@@ -7,6 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Verdenskart</title>
     <link rel="stylesheet" href="verdenskart.css">
+    <script src="//unpkg.com/three"></script>
+    <script src="//unpkg.com/three-spritetext"></script>
+    <script src="//unpkg.com/3d-force-graph"></script>
+    <script src="sorterLand.js"></script>
 </head>
 <div id="main">
 
@@ -28,6 +32,8 @@
    
     <button id="btn">Get Selected Countries</button>
     <h3>Velg land:</h3>
+
+    <div id="landPerKontinent"></div>
 </div>
 
 
@@ -35,15 +41,12 @@
 
 <script>
     Array.from(document.getElementsByClassName("kontinet")).forEach(e => e.addEventListener("click", lagLandListe));
-
     function lagLandListe(event) {
         const kontinet = event.target.id;
-
+        if(!kontinet) return;
 
 
         (async () => {
-            console.log(kontinet)
-
             const lesText = await fetch('land.json');
             const text = await lesText.json();
             let Europa = (text.filter(land => land.continent === "Europe"));
@@ -74,7 +77,8 @@
             }
 
 
-            const listenDiv = document.getElementById("listeDiv");
+            const listenDiv = document.getElementById("landPerKontinent");
+            // listenDiv.innerHTML = "";
             for (let i = 0; i < countries.length; i++) {
                 linebreak = document.createElement("br");
                 listenDiv.appendChild(linebreak);
@@ -95,20 +99,19 @@
                 listenDiv.appendChild(label);
               
             }
-        }
+        })()
+    }
 
-
-        )()
+    const btn = document.querySelector('#btn');
         let values = [];
-        const btn = document.querySelector('#btn');
-        btn.addEventListener('click', (event) => {
+        btn.addEventListener('click', async (event) => {
             let checkboxes = document.querySelectorAll(`input[name="checkbox"]:checked`);
             checkboxes.forEach((checkbox) => {
-                values.push(checkbox.id);
+                values.push(checkbox.id.toLocaleLowerCase().replaceAll(" ", "_"));
             });
-            console.log(values)
-        });
-    }
+            // console.log(values);
+            await tegnMedLand(values);
+    });
 </script>
 
 

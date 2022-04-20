@@ -4,6 +4,7 @@
  * @param {String[]} landListe 
  */
 const tegnMedLand = async landListe => {
+    document.getElementById("main").innerHTML = `<div id="disp"></div>`
 
     const { floor, random } = Math;
     const url = "WorldData.json";
@@ -65,9 +66,6 @@ const tegnMedLand = async landListe => {
     Graph
         .d3Force('link')
         .distance(link => 150 / (1 + link.value));
-
-
-    return "Lag en graf ut i fra disse landene: " + landListe.join(", ");
 }
 
-tegnMedLand("norway,united_states,australia,newZeland,sweden,poland,belarus,ukraine,france,south_africa,united_arab_emirates,russia".split(",")).then(res => console.log(res));
+// tegnMedLand("norway,united_states,australia,sweden,poland,belarus,ukraine,france,south_africa,united_arab_emirates,russia".split(",")).then(res => console.log(res));
